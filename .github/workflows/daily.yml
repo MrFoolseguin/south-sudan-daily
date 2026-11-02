@@ -1,0 +1,34 @@
+name: Daily briefing
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 11:00 UTC every day (7am US Eastern in winter, 6am in summer, 1pm in Juba)
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install libraries
+        run: pip install requests feedparser markdown
+
+      - name: Write the briefing
+        run: python agent.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Save the result to the repo
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "briefing-bot@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || (git commit -m "Daily briefing" && git push)
