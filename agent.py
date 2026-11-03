@@ -10,6 +10,7 @@ What it does each run:
 import os
 import re
 import sys
+import json
 import time
 import glob
 import html
@@ -137,7 +138,50 @@ def ask(system, user):
             last = f"{model}: HTTP {r.status_code} {r.text[:300]}"
             print(last)
             break
-    sys.exit(f"All models failed. Last error: {last}")
+    raise RuntimeError(f"All models failed. Last error: {last}")
+
+
+MEM = "docs/memory"
+
+MEMORY_RULES = """
+
+MEMORY (added by the system)
+The user message may contain a MEMORY block: running notes kept from earlier days and a short excerpt of the previous briefing. Use it only to show change over time. Place a new section called "## 1b. What Changed Since Last Time" right after section 1, with 3 to 6 short points: new developments on ongoing storylines, figures that moved (with the source and the date they appeared), and rumors that were confirmed or disproved. Use ONLY the MEMORY block and today's headlines for this. Never invent history. If there is no MEMORY block or nothing changed, leave the section out. Choose a heritage-lesson topic different from the one in the previous briefing excerpt.
+"""
+
+NOTES_SYSTEM = """You maintain the running memory notes for Muonyjang Intelligence, a daily South Sudan briefing. You are given the OLD NOTES, today's date, and today's briefing. Produce the NEW NOTES.
+
+Rules:
+- Markdown, at most 700 words.
+- Use ONLY information in the old notes and today's briefing. Never invent anything.
+- Keep these sections: "## Ongoing storylines" (each with a short title, the first-seen date, the latest status with its date, and what to watch), "## Numbers log" (any exchange rate, price, inflation or other figure that appeared, with date and source), "## Rumors log" (claim, label, date, outcome if known), "## Open questions".
+- Update existing entries instead of duplicating them. Keep each first-seen date.
+- Drop storylines with no news for 30 days unless they are unresolved and important.
+- Output only the notes, with no commentary."""
+
+
+def read_text(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return f.read()
+    except FileNotFoundError:
+        return ""
+
+
+def write_text(path, text):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(text)
+
+
+def load_memory():
+    """Running notes plus an excerpt of the most recent earlier briefing."""
+    notes = read_text(f"{MEM}/notes.md").strip()
+    earlier = sorted(p for p in glob.glob(f"{MEM}/briefings/*.md")
+                     if os.path.basename(p)[:-3] < TODAY)
+    last = read_text(earlier[-1]).strip()[:2500] if earlier else ""
+    last_day = os.path.basename(earlier[-1])[:-3] if earlier else ""
+    return notes, last, last_day
 
 
 CSS = """
@@ -172,7 +216,7 @@ def page(title, body, extra=""):
 def main():
     here = os.path.dirname(os.path.abspath(__file__))
     with open(os.path.join(here, "prompt.txt"), encoding="utf-8") as f:
-        system = f.read()
+        system = f.read() + MEMORY_RULES
 
     items, failed = collect()
     if len(items) < 5:
@@ -188,7 +232,18 @@ def main():
         "your instructions allow.\n\n" + "\n".join(lines)
     )
 
-    model, text = ask(system, user)
+    notes, last, last_day = load_memory()
+    if notes or last:
+        user += "\n\nMEMORY (from earlier days):\n"
+        if notes:
+            user += "--- Running notes ---\n" + notes + "\n"
+        if last:
+            user += f"--- Previous briefing ({last_day}), excerpt ---\n" + last + "\n"
+
+    try:
+        model, text = ask(system, user)
+    except RuntimeError as e:
+        sys.exit(str(e))
     body_html = markdown.markdown(text, extensions=["extra", "sane_lists"])
 
     srcs = "".join(
@@ -212,6 +267,21 @@ def main():
     lis = "".join(f'<li><a href="archive/{d}.html">{d}</a></li>' for d in days)
     with open("docs/archive.html", "w", encoding="utf-8") as f:
         f.write(page("Past briefings", f"<h1>Past briefings</h1><ul>{lis}</ul>").replace("{ROOT}", ""))
+    # Save today's briefing and headlines, then update the running notes.
+    write_text(f"{MEM}/briefings/{TODAY}.md", text)
+    write_text(f"{MEM}/headlines/{TODAY}.json", json.dumps(
+        [{k: i[k] for k in ("source", "tier", "title", "link")} for i in items],
+        ensure_ascii=False, indent=1))
+    try:
+        time.sleep(5)
+        _, new_notes = ask(
+            NOTES_SYSTEM,
+            f"Today's date: {TODAY}\n\nOLD NOTES:\n{notes or '(none yet)'}\n\nTODAY'S BRIEFING:\n{text}",
+        )
+        write_text(f"{MEM}/notes.md", new_notes.strip() + "\n")
+        print("Memory notes updated.")
+    except RuntimeError as e:
+        print(f"Notes were not updated today: {e}")
     print("Done.")
 
 
