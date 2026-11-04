@@ -1,61 +1,56 @@
 ## Ongoing storylines
 
-- **Dec 22 Elections Logistics**
-  - First seen: 2026-11-03
-  - Latest status (2026-11-03): The National Elections Commission (NEC) delivered its first batch of voter registration supplies (books, forms, laminating equipment) to Central Equatoria State.
-  - What to watch: Rollout of voter registration materials across the remaining states and overall administrative readiness for the scheduled Dec 22 vote.
+### December 22 General Elections Preparation
+- **First seen:** 2026-11-04
+- **Latest status (2026-11-04):** NEC delivered the first physical batch of voter registration books and 29 supplement kits to Juba (Central Equatoria). CEPO warned that election preparations are dangerously lagging behind schedule.
+- **What to watch:** Whether voter registration materials are rolled out nationwide and if the December 22 election date is maintained.
 
-- **SPLM-IO Command & Opposition Split**
-  - First seen: 2026-11-03
-  - Latest status (2026-11-03): Detained SPLM-IO leader Dr. Riek Machar confirmed Regina Joseph Kaba as acting chairperson during Special Court proceedings and denied commanding the White Army. Meanwhile, rival faction leader Nathaniel Oyet vowed to continue armed struggle.
-  - What to watch: Special Court proceedings, opposition fragmentation, and potential security disruptions to the peace process.
+### Abyei Drone Strike Escalation
+- **First seen:** 2026-11-04
+- **Latest status (2026-11-04):** The death toll from a drone strike on a market in Abyei rose to 153 people, causing severe commercial infrastructure damage.
+- **What to watch:** Official investigation into drone origin and potential border security escalation.
 
-- **Juba Municipal Tax Sanitize & Revenue Probe**
-  - First seen: 2026-11-03
-  - Latest status (2026-11-03): Caretaker Mayor Christopher Sarafino Wani Swaka dismissed 32 Juba City Council staff after a probe revealed 50% of revenue was lost to fraud. Authorities also conducted food safety inspections in Gudule and sanitation arrests in Munuki.
-  - What to watch: Implementation of centralized revenue collection and regulatory enforcement in Juba commercial centers.
+### Rival SPLM-IO Armed Resistance
+- **First seen:** 2026-11-04
+- **Latest status (2026-11-04):** Nathaniel Oyet Pierino, leading a rival SPLM/A-IO faction, explicitly vowed to continue armed resistance, claiming the opposition is closer to victory.
+- **What to watch:** Security impacts and potential military clashes between government forces and the faction.
 
-- **Ebola Preparedness & Public Health Gaps**
-  - First seen: 2026-11-03
-  - Latest status (2026-11-03): UNICEF delivered 50 metric tons of medical supplies to Juba, but a national simulation exercise exposed key operational weaknesses in referrals, sample transport, and safe burial protocols.
-  - What to watch: Remediation of emergency preparedness gaps as regional neighbors (DRC) handle active outbreaks and regional travel restrictions persist.
+### Internal SPLM Primaries
+- **First seen:** 2026-11-04
+- **Latest status (2026-11-04):** High-profile primary upsets occurred, including Barnaba Marial Benjamin losing Uror County (Jonglei) to Wany Lam Tuor, and Modi John Molla withdrawing from the Central Equatoria governorship race to run for parliament.
+- **What to watch:** Final candidate lists and party unity ahead of the general election.
 
-- **Debt Liabilities & Russian Economic Strategic Ties**
-  - First seen: 2026-11-03
-  - Latest status (2026-11-03): Salva Kiir's cabinet endorsed deepening strategic cooperation with Russia in petroleum, mining, and IT. South Sudan concurrently faces a $1 billion recovery action by Qatar National Bank and international arbitration by a UAE investor over oil assets.
-  - What to watch: Implementation of the Joint Intergovernmental Russian-South Sudanese Commission and outcomes of international legal actions.
+### Jonglei Flood Protection Dyke
+- **First seen:** 2026-11-04
+- **Latest status (2026-11-04):** Government is advancing plans for a 94-kilometer dyke stretching from Bor South to Twic East to mitigate recurrent flooding while preserving water access.
+- **What to watch:** Construction progress, land use adjustments, and effects on traditional pastoralist grazing routes.
 
-- **Uganda-South Sudan Border Security Reinforcement**
-  - First seen: 2026-11-03
-  - Latest status (2026-11-03): The Ugandan military reinforced security and troop positions along the border with South Sudan following cross-border rebel activity.
-  - What to watch: Border security operations and impacts on overland cross-border trade.
+### Qatar National Bank Debt Recovery Claim
+- **First seen:** 2026-11-04
+- **Latest status (2026-11-04):** Qatar National Bank is seeking to recover $1 billion from the South Sudanese government following a court ruling.
+- **What to watch:** National treasury response and impact on state finances.
+
+### Public Health Mobilization and Disease Risks
+- **First seen:** 2026-11-04
+- **Latest status (2026-11-04):** A nationwide polio vaccination campaign targeting 3.9 million children was launched. UNICEF delivered 50 metric tons of medical supplies for DRC-related Ebola preparedness. MSF warned 150,000 displaced people in Bentiu and Malakal camps face severe cholera risks due to funding cuts.
+- **What to watch:** Funding restoration for displaced camps and disease containment efforts.
 
 ## Numbers log
-
-- **50 metric tons**: Medical supplies delivered by UNICEF to Juba for Ebola preparedness (2026-11-03, Sudans Post / Eye Radio).
-- **50 percent**: Proportion of Juba City Council revenue lost to internal fraud and illegal collections (2026-11-03, Sudans Post).
-- **32**: Municipal employees dismissed by Juba City Council following tax fraud probe (2026-11-03, Sudans Post).
-- **$1 billion**: Amount Qatar National Bank is attempting to recover from South Sudan following a court judgment (2026-11-03, Africa Intelligence).
-- **5 dead, 4 wounded**: Casualties from armed youth attack in Pochalla North County (2026-11-03, Eye Radio).
-- **30**: Looted cattle recovered and returned in Rumbek Central County (2026-11-03, Sudans Post).
-- **17**: Individuals arrested in Munuki, Juba for municipal sanitation non-compliance (2026-11-03, Eye Radio).
-- **73**: Reported deaths from drone strikes on a market in Abyei (2026-11-03, Addis Standard).
+- **2026-11-04:** 153 people reported killed in the Abyei market drone strike (Addis Standard, Daily Asian Age).
+- **2026-11-04:** $1 billion debt recovery action pursued by Qatar National Bank (Africa Intelligence).
+- **2026-11-04:** 3.9 million children targeted in nationwide polio vaccination campaign (ReliefWeb).
+- **2026-11-04:** 150,000 displaced persons at risk of cholera in Bentiu and Malakal camps due to funding cuts (Sudans Post / MSF).
+- **2026-11-04:** 50 metric tons of medical supplies delivered by UNICEF for Ebola preparedness (Sudans Post, Eye Radio).
+- **2026-11-04:** 94 kilometers length of planned flood protection dyke in Jonglei State (Sudans Post).
+- **2026-11-04:** 29 supplement kits delivered alongside voter registration books to Central Equatoria (Sudans Post).
 
 ## Rumors log
-
-- **SPLM-IO Command over White Army Militia**
-  - Claim: Opponents claim SPLM-IO leadership exercises direct command over White Army youth militia.
-  - Date: 2026-11-03
-  - Outcome: Likely baseless / Denied under oath by Dr. Riek Machar during Special Court testimony (2026-11-03).
-
-- **Permanent Relocation of Rumbek Secondary School**
-  - Claim: Rumors in Lakes State alleged the historic Rumbek Secondary School was being permanently relocated.
-  - Date: 2026-11-03
-  - Outcome: Clarified by Vice President Hussein Abdelbagi’s office to address public concern (2026-11-03).
+- **Origin of Abyei drone strikes:** (Possibly True | 2026-11-04 | Outcome: Unresolved - Local speculation links strikes to RSF/Sudanese Army conflict; Sudanese army claims shooting down an Ethiopian drone).
+- **Postponement of December 22 election:** (Unverified | 2026-11-04 | Outcome: Unresolved - CEPO warnings about behind-schedule preparations fuel local rumors of an upcoming official delay).
+- **US Congress political shift impact:** (Unverified | 2026-11-04 | Outcome: Unresolved - Juba observers speculate whether projected Democratic control of US Congress will change sanctions or aid flows).
 
 ## Open questions
-
-- Can the National Elections Commission complete voter registration delivery across all remaining states in time for the planned December 22 elections?
-- How will South Sudan navigate the $1 billion Qatar National Bank court judgment and UAE oil arbitration alongside new economic deals with Russia?
-- Will the termination of 32 Juba City Council employees successfully halt municipal tax leakages and illegal collection practices?
-- What measures will health authorities take to fix emergency referral, sample handling, and safe burial gaps identified in the national Ebola simulation?
+- Will the December 22 general elections proceed on time given warnings of severe logistical delays?
+- Who launched the drone strike that killed 153 people in the disputed Abyei market?
+- Where is Alex Lotyem, the Kapoeta South County SPLM Secretary, who was reportedly arrested by SSPDF soldiers on November 2?
+- How does the government plan to settle or manage Qatar National Bank's $1 billion claim?
