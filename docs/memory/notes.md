@@ -1,48 +1,42 @@
 ## Ongoing storylines
 
-### Scheduled December General Elections & Inclusion Gaps
-- First seen: 2026-11-05
-- Latest status (2026-11-05): Administrative reshuffles in Central Equatoria and Jonglei are accelerating ahead of planned December elections. CEPO publicly criticized the National Election Commission over the low representation of women among newly appointed returning officers. (Eye Radio)
-- What to watch: Official confirmation of the December 22 election date, logistical readiness, and voter registration updates.
+### Scheduled December General Elections & Abyei Voting Dispute
+- **First seen:** 2026-11-06
+- **Latest status (2026-11-06):** Analysts publicly warn holding general elections on December 22 is unrealistic due to voter registration delays and funding deficits. In SPLM primaries, Barnaba Marial Benjamin lost his Uror County seat to Wany Lam Tuor. Sudan officially challenged South Sudan at the UN Security Council over plans to include Abyei in the vote. National Elections Commission Chair Gabriel Bol Deng met with opposition NDM leader Dr. Lam Akol.
+- **What to watch:** Whether the government announces a formal postponement or resolves administrative and boundary disputes.
 
-### Aid Cuts and MSF Exit from Kajo-Keji Civil Hospital
-- First seen: 2026-11-05
-- Latest status (2026-11-05): MSF officially withdrew operational support from Kajo-Keji Civil Hospital, placing the facility at risk of complete closure and reducing services for 150,000 displaced people across Unity and Upper Nile states. Caretaker Commissioner Charles Laku Losio Yensuk appealed for urgent donor intervention. (Eye Radio, Sudans Post)
-- What to watch: Emergency donor response, county health authority takeover efforts, and impacts on rural border healthcare access.
+### Northern Border Instability and Regional Escalation
+- **First seen:** 2026-11-06
+- **Latest status (2026-11-06):** RSF and allied SPLM-N forces captured the Sali military base in Sudan's Blue Nile State, near Upper Nile State. Deadly drone strikes increased in Abyei according to UN peacekeepers. Ethiopia expelled Sudanese diplomats amid rising regional rivalries.
+- **What to watch:** Escalation of cross-border security threats, trade corridor disruptions, and refugee inflows into northern states.
 
-### Ugandan Border Consolidation and Trade Friction
-- First seen: 2026-11-05
-- Latest status (2026-11-05): Ugandan military forces tightened their stance along the southern border, drawing criticism from a US Senator over destabilizing involvement. Concurrently, Ugandan traders are challenging trade restrictions enforced by South Sudan and Kenya. (Africa Intelligence, Eye Radio, Daily Monitor)
-- What to watch: Potential delays, informal taxation, and security checkpoint friction along the Juba-Nimule trade corridor.
+### Detention of Kapoeta South Youth and Political Leaders
+- **First seen:** 2026-11-06
+- **Latest status (2026-11-06):** Kapoeta South County Youth Association chairperson, SPLM secretary Alex Lotyem, and colleagues were arrested by military personnel on October 30 at a hotel in Kapoeta; their location remains unknown.
+- **What to watch:** Security authority response to public demands from family and local youth leadership for release or disclosure of detention sites.
 
-### Central Equatoria Economic and Revenue Restructuring
-- First seen: 2026-11-05
-- Latest status (2026-11-05): Caretaker Governor General Augustino Jadalla Kamilo Wani appointed executive leadership for the State Revenue Authority, State Investment Authority, and Juba Special Economic Zone. (Eye Radio)
-- What to watch: Administrative guidelines, land-allocation rules, and tax collection enforcement targeting business builders in Juba.
+### Jonglei Flood Mitigation Infrastructure
+- **First seen:** 2026-11-06
+- **Latest status (2026-11-06):** Government announced progress on a 94-kilometer flood-protection dyke linking Bor South and Twic East counties in Jonglei State.
+- **What to watch:** Feasibility execution and potential impact on protecting agro-pastoral communities from seasonal flooding.
 
-### Inter-Communal Clashes Disrupt Lakes State Peace Talks
-- First seen: 2026-11-05
-- Latest status (2026-11-05): Peace talks at Malueth Payam between the Gak and Manuer sections of the Pakam community in Rumbek North County collapsed into violence, leaving three people dead and two wounded. Local leaders banned local alcohol brewing to suppress tensions. (Sudans Post, Radio Tamazuj)
-- What to watch: Potential retaliatory violence, local alcohol ban enforcement, and trade route security in Lakes State.
-
-### Sudan Border Conflict Spillover
-- First seen: 2026-11-05
-- Latest status (2026-11-05): RSF and allied SPLM-N fighters captured the Sali military base in Sudan's Blue Nile State, advancing north of Kurmuk near the South Sudan border. (Sudans Post)
-- What to watch: Cross-border troop movements, refugee flows into Upper Nile, and regional security friction.
+### Aid Cuts and Health Emergency in Unity and Upper Nile
+- **First seen:** 2026-11-06
+- **Latest status (2026-11-06):** International aid cuts are driving a public health emergency, leaving over 150,000 displaced persons vulnerable to disease outbreaks.
+- **What to watch:** Foreign aid realignments or national emergency health interventions.
 
 ## Numbers log
-- 2026-11-05: 150,000 displaced people affected by reduced MSF medical services in Unity and Upper Nile states (Eye Radio, Sudans Post).
-- 2026-11-05: 50 metric tons of protective gear delivered by UNICEF to Northern Bahr el Ghazal for Ebola emergency preparedness (Eye Radio, Sudans Post).
-- 2026-11-05: 1,225 local entrepreneurs awarded business certificates by Inkomoko South Sudan (Eye Radio).
-- 2026-11-05: 25 young professionals sent to Brazil for specialized agricultural training (Eye Radio).
-- 2026-11-05: 3 killed and 2 wounded during Rumbek North County inter-section clashes (Sudans Post).
+- **$355 million:** Outstanding oil-backed debt owed by South Sudan to Sahara Energy (2026-11-06, Global Trade Review).
+- **$800 million:** Estimated annual expenditure by South Sudan on food imports (2026-11-06, Eye Radio).
+- **150,000+:** Number of displaced people in Unity and Upper Nile states exposed to severe disease risks due to aid cuts (2026-11-06, Sudans Post).
+- **94 kilometers:** Length of the planned flood-protection dyke linking Bor South and Twic East counties (2026-11-06, Sudans Post).
 
 ## Rumors log
-- Ugandan Border Military Consolidation | Unverified to Possibly True | 2026-11-05 | Reports indicate Ugandan forces are consolidating border sectors (Africa Intelligence), while US lawmakers warn of destabilizing foreign military involvement (Eye Radio).
-- December General Election Delay Speculation | Unverified | 2026-11-05 | Logistical delays and civil society warnings over low female officer representation continue to spark local debate regarding whether the Dec 22 election date will hold (Eye Radio).
+- **Imminent postponement of the December 22 general elections:** Label: Possibly true (2026-11-06). Analyst warnings, voter registration deficits, funding shortages, and UN diplomatic friction over Abyei point toward election delay. Outcome: Pending.
+- **Secret detention locations for Kapoeta youth and political officers:** Label: Unverified (2026-11-06). Families state military personnel arrested officials without charges or disclosing detention facilities. Outcome: Pending.
 
 ## Open questions
-- Will the December 22 election schedule be maintained given lagging logistical preparations and civil society inclusion concerns?
-- Where are the chairperson of the Kapoeta South County Youth Association and a fellow youth leader being held following their October 30 arrest by soldiers?
-- How will Central Equatoria state authorities structure tax regulations and land allocation under the newly appointed Juba Special Economic Zone leadership?
-- Will alternative donor funding step in to prevent the complete shutdown of Kajo-Keji Civil Hospital following MSF's withdrawal?
+- Will the South Sudanese government formally announce a postponement of the December 22 general elections?
+- Where are the Kapoeta South County Youth Association chairperson and SPLM secretary Alex Lotyem currently being detained?
+- How will the newly appointed Central Equatoria State Insurance Regulatory Authority implement licensing and compliance regulations for Juba businesses?
+- What financial mechanisms will the ministry of finance use to address the $355 million debt owed to Sahara Energy amid high food import costs?
