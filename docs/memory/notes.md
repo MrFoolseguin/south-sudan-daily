@@ -1,42 +1,48 @@
 ## Ongoing storylines
 
-### Scheduled December General Elections & Abyei Voting Dispute
-- **First seen:** 2026-11-06
-- **Latest status (2026-11-06):** Analysts publicly warn holding general elections on December 22 is unrealistic due to voter registration delays and funding deficits. In SPLM primaries, Barnaba Marial Benjamin lost his Uror County seat to Wany Lam Tuor. Sudan officially challenged South Sudan at the UN Security Council over plans to include Abyei in the vote. National Elections Commission Chair Gabriel Bol Deng met with opposition NDM leader Dr. Lam Akol.
-- **What to watch:** Whether the government announces a formal postponement or resolves administrative and boundary disputes.
+### 2026 General Elections Preparedness
+* First-seen: 2026-11-07
+* Latest status (2026-11-07): NEC confirmed voter registration must be completed physically, debunking online registration rumors. Opposition leaders report security fears and movement restrictions prevent them from announcing candidates. Sudan submitted a formal complaint to the UN Security Council regarding South Sudan's plans to include Abyei in the vote.
+* What to watch: Preparation of voter rolls, resolution of the Abyei dispute, and political space allowed for opposition campaigning.
 
-### Northern Border Instability and Regional Escalation
-- **First seen:** 2026-11-06
-- **Latest status (2026-11-06):** RSF and allied SPLM-N forces captured the Sali military base in Sudan's Blue Nile State, near Upper Nile State. Deadly drone strikes increased in Abyei according to UN peacekeepers. Ethiopia expelled Sudanese diplomats amid rising regional rivalries.
-- **What to watch:** Escalation of cross-border security threats, trade corridor disruptions, and refugee inflows into northern states.
+### Kapoeta Youth Leaders Detention
+* First-seen: 2026-11-07
+* Latest status (2026-11-07): The whereabouts of the Kapoeta South County Youth Association chairperson and his colleague remain unknown following their October 30 arrest by military forces.
+* What to watch: Official statement or charges from the military, or release of the detainees.
 
-### Detention of Kapoeta South Youth and Political Leaders
-- **First seen:** 2026-11-06
-- **Latest status (2026-11-06):** Kapoeta South County Youth Association chairperson, SPLM secretary Alex Lotyem, and colleagues were arrested by military personnel on October 30 at a hotel in Kapoeta; their location remains unknown.
-- **What to watch:** Security authority response to public demands from family and local youth leadership for release or disclosure of detention sites.
+### Sahara Energy Debt Litigation
+* First-seen: 2026-11-07
+* Latest status (2026-11-07): Sahara Energy is actively pursuing a legal claim of $335 million to $355 million against South Sudan over undelivered oil.
+* What to watch: Legal proceedings and their impact on South Sudan's national budget and oil revenue.
 
-### Jonglei Flood Mitigation Infrastructure
-- **First seen:** 2026-11-06
-- **Latest status (2026-11-06):** Government announced progress on a 94-kilometer flood-protection dyke linking Bor South and Twic East counties in Jonglei State.
-- **What to watch:** Feasibility execution and potential impact on protecting agro-pastoral communities from seasonal flooding.
+### Pakam Inter-Sectional Conflict in Rumbek North
+* First-seen: 2026-11-07
+* Latest status (2026-11-07): A reconciliation dialogue between the Gak and Manuer sections turned violent, resulting in 3 to 5 deaths. Authorities banned local alcohol brewing to prevent further escalation.
+* What to watch: Enforcement of the alcohol ban and potential retaliatory violence between sections.
 
-### Aid Cuts and Health Emergency in Unity and Upper Nile
-- **First seen:** 2026-11-06
-- **Latest status (2026-11-06):** International aid cuts are driving a public health emergency, leaving over 150,000 displaced persons vulnerable to disease outbreaks.
-- **What to watch:** Foreign aid realignments or national emergency health interventions.
+### Alternative Oil Export Pipeline via Ethiopia
+* First-seen: 2026-11-07
+* Latest status (2026-11-07): PetroChina is exploring a new oil export corridor connecting South Sudan to Ethiopia and Djibouti.
+* What to watch: Formal agreements or feasibility studies between Juba, Addis Ababa, and Djibouti.
 
 ## Numbers log
-- **$355 million:** Outstanding oil-backed debt owed by South Sudan to Sahara Energy (2026-11-06, Global Trade Review).
-- **$800 million:** Estimated annual expenditure by South Sudan on food imports (2026-11-06, Eye Radio).
-- **150,000+:** Number of displaced people in Unity and Upper Nile states exposed to severe disease risks due to aid cuts (2026-11-06, Sudans Post).
-- **94 kilometers:** Length of the planned flood-protection dyke linking Bor South and Twic East counties (2026-11-06, Sudans Post).
+* 2026-11-07: $335 million to $355 million – Legal claim by Sahara Energy for undelivered oil (Source: Law360, Global Trade Review).
+* 2026-11-07: $800 million – Annual expenditure by South Sudan on food imports (Source: Eye Radio / UN expert).
+* 2026-11-07: $5 – Unimplemented passenger stamp duty leading to closure of Kush and Arojet Airlines offices in Wau (Source: Eye Radio).
+* 2026-11-07: 3 to 5 – Deaths during a violent outbreak at a peace dialogue in Rumbek North (Source: Sudans Post, Radio Tamazuj).
+* 2026-11-07: 8,000+ – New cancer cases recorded in South Sudan this year (Source: Eye Radio).
+* 2026-11-07: 100,000 – People at risk of losing care at border health clinics due to humanitarian funding cuts (Source: IOM).
+* 2026-11-07: 94km – Planned dyke length in Jonglei to prevent severe flooding (Source: Sudans Post).
+* 2026-11-07: 600 tonnes – Daily waste produced in Juba (Source: Eye Radio).
+* 2026-11-07: 25 – Young professionals sent to Brazil for agricultural training (Source: Eye Radio).
 
 ## Rumors log
-- **Imminent postponement of the December 22 general elections:** Label: Possibly true (2026-11-06). Analyst warnings, voter registration deficits, funding shortages, and UN diplomatic friction over Abyei point toward election delay. Outcome: Pending.
-- **Secret detention locations for Kapoeta youth and political officers:** Label: Unverified (2026-11-06). Families state military personnel arrested officials without charges or disclosing detention facilities. Outcome: Pending.
+* Online voter registration portal active | Label: Likely baseless (Scam) | Date: 2026-11-07 | Outcome: NEC confirmed voter registration is physical only.
+* December 22, 2026 election postponement | Label: Possibly true | Date: 2026-11-07 | Outcome: Unresolved; date remains official, but analysts cite incomplete voter rolls and Abyei disputes.
+* Secret military detentions ("ghost houses") holding Kapoeta youth leaders | Label: Unverified | Date: 2026-11-07 | Outcome: Unresolved; military has not disclosed detention location or charges.
 
 ## Open questions
-- Will the South Sudanese government formally announce a postponement of the December 22 general elections?
-- Where are the Kapoeta South County Youth Association chairperson and SPLM secretary Alex Lotyem currently being detained?
-- How will the newly appointed Central Equatoria State Insurance Regulatory Authority implement licensing and compliance regulations for Juba businesses?
-- What financial mechanisms will the ministry of finance use to address the $355 million debt owed to Sahara Energy amid high food import costs?
+* Will South Sudan proceed with the December 22, 2026 election timeline despite unprepared voter rolls and Sudan's UNSC objection regarding Abyei?
+* Where are the Kapoeta youth leaders being detained, and will they face formal charges?
+* How will Juba handle the $335M–$355M Sahara Energy claim given existing fiscal pressures and high food import bills?
+* Will PetroChina's proposed oil route through Ethiopia and Djibouti move forward to bypass Sudan's conflict zone?
