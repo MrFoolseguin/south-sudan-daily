@@ -1,48 +1,42 @@
 ## Ongoing storylines
 
-### 2026 General Elections Preparedness
-* First-seen: 2026-11-07
-* Latest status (2026-11-07): NEC confirmed voter registration must be completed physically, debunking online registration rumors. Opposition leaders report security fears and movement restrictions prevent them from announcing candidates. Sudan submitted a formal complaint to the UN Security Council regarding South Sudan's plans to include Abyei in the vote.
-* What to watch: Preparation of voter rolls, resolution of the Abyei dispute, and political space allowed for opposition campaigning.
+### Scheduled December 22, 2026 Elections
+* First seen: 2026-11-08
+* Latest status (2026-11-08): Opposition leaders report that security fears and political movement restrictions prevent them from announcing candidates. Plans to include Abyei in the election continue to draw objections from Khartoum.
+* What to watch: Electoral preparedness, opening of political space, Equatoria traditional leaders' calls for federalism, and Khartoum's response.
 
-### Kapoeta Youth Leaders Detention
-* First-seen: 2026-11-07
-* Latest status (2026-11-07): The whereabouts of the Kapoeta South County Youth Association chairperson and his colleague remain unknown following their October 30 arrest by military forces.
-* What to watch: Official statement or charges from the military, or release of the detainees.
+### Sovereign Debt & Global Legal Liabilities
+* First seen: 2026-11-08
+* Latest status (2026-11-08): South Sudan secured a $21 million debt waiver at the 25th EAC Summit, but faces severe global enforcement risks over a $1.02 billion Qatar National Bank arbitration award and an ongoing $335M–$355M lawsuit by Sahara Energy over undelivered oil.
+* What to watch: International asset enforcement actions, national trade policy under newly appointed Trade Minister Dr. Labanya Margaret Mathya Ugila, and foreign investment developments with Saudi Arabia and Russia.
 
-### Sahara Energy Debt Litigation
-* First-seen: 2026-11-07
-* Latest status (2026-11-07): Sahara Energy is actively pursuing a legal claim of $335 million to $355 million against South Sudan over undelivered oil.
-* What to watch: Legal proceedings and their impact on South Sudan's national budget and oil revenue.
+### Wau Airline Stamp Duty Dispute
+* First seen: 2026-11-08
+* Latest status (2026-11-08): Caretaker authorities in Western Bahr el Ghazal ordered the closure of Kush Airlines and Arojet Airlines offices in Wau after they refused to collect a mandatory $5 passenger stamp duty.
+* What to watch: Escalation between private transport operators and state revenue authorities, and regional logistics disruptions.
 
-### Pakam Inter-Sectional Conflict in Rumbek North
-* First-seen: 2026-11-07
-* Latest status (2026-11-07): A reconciliation dialogue between the Gak and Manuer sections turned violent, resulting in 3 to 5 deaths. Authorities banned local alcohol brewing to prevent further escalation.
-* What to watch: Enforcement of the alcohol ban and potential retaliatory violence between sections.
+### Nyamini Community Land Dispute
+* First seen: 2026-11-08
+* Latest status (2026-11-08): Governor Adil issued an executive order halting plot allocations in Nyamini due to an ongoing community land ownership dispute.
+* What to watch: Government intervention outcomes and reconciliation between customary land rights and municipal titles.
 
-### Alternative Oil Export Pipeline via Ethiopia
-* First-seen: 2026-11-07
-* Latest status (2026-11-07): PetroChina is exploring a new oil export corridor connecting South Sudan to Ethiopia and Djibouti.
-* What to watch: Formal agreements or feasibility studies between Juba, Addis Ababa, and Djibouti.
+### Regional Security Volatility (Abyei & Lakes State)
+* First seen: 2026-11-08
+* Latest status (2026-11-08): UN peacekeeping chief reported deadly drone strikes in Abyei. Interclan clashes in Rumbek North left 5 dead and 12 wounded, while a nurse was shot at Cueibet Hospital in a suspected revenge attack.
+* What to watch: Humanitarian access, revenge violence, and cross-border tensions, including Ugandan truck drivers demanding compensation for a killed driver.
 
 ## Numbers log
-* 2026-11-07: $335 million to $355 million – Legal claim by Sahara Energy for undelivered oil (Source: Law360, Global Trade Review).
-* 2026-11-07: $800 million – Annual expenditure by South Sudan on food imports (Source: Eye Radio / UN expert).
-* 2026-11-07: $5 – Unimplemented passenger stamp duty leading to closure of Kush and Arojet Airlines offices in Wau (Source: Eye Radio).
-* 2026-11-07: 3 to 5 – Deaths during a violent outbreak at a peace dialogue in Rumbek North (Source: Sudans Post, Radio Tamazuj).
-* 2026-11-07: 8,000+ – New cancer cases recorded in South Sudan this year (Source: Eye Radio).
-* 2026-11-07: 100,000 – People at risk of losing care at border health clinics due to humanitarian funding cuts (Source: IOM).
-* 2026-11-07: 94km – Planned dyke length in Jonglei to prevent severe flooding (Source: Sudans Post).
-* 2026-11-07: 600 tonnes – Daily waste produced in Juba (Source: Eye Radio).
-* 2026-11-07: 25 – Young professionals sent to Brazil for agricultural training (Source: Eye Radio).
+* 2026-11-08: $21 million debt waiver granted to South Sudan by the East African Community (Eye Radio).
+* 2026-11-08: $1.02 billion arbitration award owed to Qatar National Bank (Eye Radio).
+* 2026-11-08: $335 million to $355 million oil-debt lawsuit by Sahara Energy (Eye Radio, Global Trade Review, Law360).
+* 2026-11-08: $5 passenger stamp duty in Wau, Western Bahr el Ghazal (Eye Radio).
+* 2026-11-08: 5 dead and 12 wounded in Rumbek North interclan clashes (UN News, Radio Tamazuj, Sudans Post).
 
 ## Rumors log
-* Online voter registration portal active | Label: Likely baseless (Scam) | Date: 2026-11-07 | Outcome: NEC confirmed voter registration is physical only.
-* December 22, 2026 election postponement | Label: Possibly true | Date: 2026-11-07 | Outcome: Unresolved; date remains official, but analysts cite incomplete voter rolls and Abyei disputes.
-* Secret military detentions ("ghost houses") holding Kapoeta youth leaders | Label: Unverified | Date: 2026-11-07 | Outcome: Unresolved; military has not disclosed detention location or charges.
+* Feasibility of December 22, 2026 election timeline | Label: Possibly true (that schedule faces delays) | Date: 2026-11-08 | Outcome: Unresolved. Opposition reports security concerns and political restrictions block candidate announcements, while analysts cite lack of electoral readiness.
 
 ## Open questions
-* Will South Sudan proceed with the December 22, 2026 election timeline despite unprepared voter rolls and Sudan's UNSC objection regarding Abyei?
-* Where are the Kapoeta youth leaders being detained, and will they face formal charges?
-* How will Juba handle the $335M–$355M Sahara Energy claim given existing fiscal pressures and high food import bills?
-* Will PetroChina's proposed oil route through Ethiopia and Djibouti move forward to bypass Sudan's conflict zone?
+* How will the South Sudanese government navigate global asset enforcement risks stemming from the $1.02 billion QNB award and the Sahara Energy lawsuit?
+* Will state caretaker authorities in Western Bahr el Ghazal reach an agreement with airlines over the $5 stamp duty collection, or will flights remain suspended?
+* How will customary land consensus be established in Nyamini to resolve the plot allocation freeze?
+* What measures will be taken by UN peacekeepers or local authorities to address drone strike threats in Abyei?
