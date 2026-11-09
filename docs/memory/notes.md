@@ -1,42 +1,53 @@
 ## Ongoing storylines
 
-### Scheduled December 22, 2026 Elections
-* First seen: 2026-11-08
-* Latest status (2026-11-08): Opposition leaders report that security fears and political movement restrictions prevent them from announcing candidates. Plans to include Abyei in the election continue to draw objections from Khartoum.
-* What to watch: Electoral preparedness, opening of political space, Equatoria traditional leaders' calls for federalism, and Khartoum's response.
+### December 2026 Elections & Pre-Election Insecurity
+* First-seen: 2026-11-09
+* Latest status: 2026-11-09: The National Elections Commission (NEC) announced 3,161 registration centers and 22,127 planned personnel nationwide, with Lakes State training constituency returning officers. However, political and sectional clashes have killed at least 23 people nationwide (including the Akobo County commissioner), while electoral mapping has reignited border disputes with Sudan.
+* What to watch: Rollout of voter registration, security along campaign routes, and election mapping negotiations along contested border areas.
 
-### Sovereign Debt & Global Legal Liabilities
-* First seen: 2026-11-08
-* Latest status (2026-11-08): South Sudan secured a $21 million debt waiver at the 25th EAC Summit, but faces severe global enforcement risks over a $1.02 billion Qatar National Bank arbitration award and an ongoing $335M–$355M lawsuit by Sahara Energy over undelivered oil.
-* What to watch: International asset enforcement actions, national trade policy under newly appointed Trade Minister Dr. Labanya Margaret Mathya Ugila, and foreign investment developments with Saudi Arabia and Russia.
+### Elegu Border Post & Regional Trade Corridor
+* First-seen: 2026-11-09
+* Latest status: 2026-11-09: The main border crossing at Elegu between South Sudan and Uganda has reopened to trade. However, Ugandan driver federations are demanding investigations and compensation following the murder of two Ugandan drivers in South Sudan.
+* What to watch: Security measures on supply highways, potential haulage strikes by Ugandan transport unions, and food/fuel prices in Juba.
 
-### Wau Airline Stamp Duty Dispute
-* First seen: 2026-11-08
-* Latest status (2026-11-08): Caretaker authorities in Western Bahr el Ghazal ordered the closure of Kush Airlines and Arojet Airlines offices in Wau after they refused to collect a mandatory $5 passenger stamp duty.
-* What to watch: Escalation between private transport operators and state revenue authorities, and regional logistics disruptions.
+### Forex Shortages, Inflation, and Market Regulation
+* First-seen: 2026-11-09
+* Latest status: 2026-11-09: Juba residents face sharp commodity price increases due to South Sudanese pound depreciation. Telecom firms report severe forex access issues, while the IMF scheduled upcoming review missions. The Ministry of Trade established the Competition and Consumer Protection Authority to address market monopolies.
+* What to watch: Market intervention tactics by the new authority, outcomes of the IMF staff review, and forex availability for essential business operations.
 
-### Nyamini Community Land Dispute
-* First seen: 2026-11-08
-* Latest status (2026-11-08): Governor Adil issued an executive order halting plot allocations in Nyamini due to an ongoing community land ownership dispute.
-* What to watch: Government intervention outcomes and reconciliation between customary land rights and municipal titles.
+### U.S.-South Sudan Relations and UN Mandate Review
+* First-seen: 2026-11-09
+* Latest status: 2026-11-09: South Sudan's Foreign Ministry rejected recent U.S. sanctions. Meanwhile, U.S. diplomats warned that UN peacekeeping operations in the region must adapt or risk closure.
+* What to watch: Negotiations surrounding UN mandate renewals and international aid/investment flows.
 
-### Regional Security Volatility (Abyei & Lakes State)
-* First seen: 2026-11-08
-* Latest status (2026-11-08): UN peacekeeping chief reported deadly drone strikes in Abyei. Interclan clashes in Rumbek North left 5 dead and 12 wounded, while a nurse was shot at Cueibet Hospital in a suspected revenge attack.
-* What to watch: Humanitarian access, revenge violence, and cross-border tensions, including Ugandan truck drivers demanding compensation for a killed driver.
+### Nyamini Land Allocation Dispute
+* First-seen: 2026-11-09
+* Latest status: 2026-11-09: Central Equatoria State Governor Emmanuel Adil issued an executive order freezing land allocations in Nyamini due to conflicts between customary landowners and municipal planners.
+* What to watch: State government mediation outcome between customary land elders and municipal authorities.
 
 ## Numbers log
-* 2026-11-08: $21 million debt waiver granted to South Sudan by the East African Community (Eye Radio).
-* 2026-11-08: $1.02 billion arbitration award owed to Qatar National Bank (Eye Radio).
-* 2026-11-08: $335 million to $355 million oil-debt lawsuit by Sahara Energy (Eye Radio, Global Trade Review, Law360).
-* 2026-11-08: $5 passenger stamp duty in Wau, Western Bahr el Ghazal (Eye Radio).
-* 2026-11-08: 5 dead and 12 wounded in Rumbek North interclan clashes (UN News, Radio Tamazuj, Sudans Post).
+
+* **3,161**: Identified voter registration centers for the December 22 elections (2026-11-09, Eye Radio).
+* **22,127**: Planned personnel deployment for voter registration nationwide (2026-11-09, Eye Radio).
+* **23**: Minimum death toll from pre-election political and sectional clashes (2026-11-09, Yeni Şafak / Daily Trust / Al Arabiya English).
+* **2**: Ugandan truck drivers killed inside South Sudan prior to the Elegu border reopening (2026-11-09, The Independent Uganda / Daily Monitor).
+* **100,000+**: Refugees and returnees who have crossed into South Sudan due to fighting in Sudan (2026-11-09, Eye Radio).
+* **$335 million**: Amount of legal claim brought against South Sudan by Sahara Energy over undelivered crude oil cargoes (2026-11-09, Law360).
 
 ## Rumors log
-* Feasibility of December 22, 2026 election timeline | Label: Possibly true (that schedule faces delays) | Date: 2026-11-08 | Outcome: Unresolved. Opposition reports security concerns and political restrictions block candidate announcements, while analysts cite lack of electoral readiness.
+
+* **Claim**: Fishing net dispute sparked the 2024 Nasir County clashes between the SSPDF and local youth.
+  * Label: Unverified / Contested claim
+  * Date: 2026-11-09
+  * Outcome: Testified by former FVP Riek Machar in special court; pending formal judicial findings.
+* **Claim**: Measles epidemic and police arrests following a station death reported in "Bor".
+  * Label: Baseless (Misattributed international reporting)
+  * Date: 2026-11-09
+  * Outcome: Debunked; news feeds misattributed reports from the city of Bor in Serbia to Bor Town, Jonglei State.
 
 ## Open questions
-* How will the South Sudanese government navigate global asset enforcement risks stemming from the $1.02 billion QNB award and the Sahara Energy lawsuit?
-* Will state caretaker authorities in Western Bahr el Ghazal reach an agreement with airlines over the $5 stamp duty collection, or will flights remain suspended?
-* How will customary land consensus be established in Nyamini to resolve the plot allocation freeze?
-* What measures will be taken by UN peacekeepers or local authorities to address drone strike threats in Abyei?
+
+* How will the NEC overcome logistical constraints and insecurity to begin voter registration ahead of the December 22 target?
+* Will security guarantees or compensation be provided to Ugandan transport unions to prevent further trade disruptions at Elegu?
+* What specific mechanisms will the newly formed Competition and Consumer Protection Authority use to monitor and regulate commodity prices in Juba?
+* What structural financial conditions will the IMF place on South Sudan during its upcoming review missions?
