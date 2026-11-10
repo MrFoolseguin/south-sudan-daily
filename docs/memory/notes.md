@@ -1,53 +1,53 @@
 ## Ongoing storylines
 
-### December 2026 Elections & Pre-Election Insecurity
-* First-seen: 2026-11-09
-* Latest status: 2026-11-09: The National Elections Commission (NEC) announced 3,161 registration centers and 22,127 planned personnel nationwide, with Lakes State training constituency returning officers. However, political and sectional clashes have killed at least 23 people nationwide (including the Akobo County commissioner), while electoral mapping has reignited border disputes with Sudan.
-* What to watch: Rollout of voter registration, security along campaign routes, and election mapping negotiations along contested border areas.
+### State Funeral for General Joseph Lagu Yanga
+- First seen: 2026-11-10
+- Latest status (2026-11-10): The high-level state funeral committee announced a three-stage burial plan at the Dr. John Garang Mausoleum in Juba, pending an official date from the Office of the President.
+- What to watch: Announcement of the official funeral date and national reconciliation symbolism.
 
-### Elegu Border Post & Regional Trade Corridor
-* First-seen: 2026-11-09
-* Latest status: 2026-11-09: The main border crossing at Elegu between South Sudan and Uganda has reopened to trade. However, Ugandan driver federations are demanding investigations and compensation following the murder of two Ugandan drivers in South Sudan.
-* What to watch: Security measures on supply highways, potential haulage strikes by Ugandan transport unions, and food/fuel prices in Juba.
+### Afreximbank Debt Default Lawsuit
+- First seen: 2026-11-10
+- Latest status (2026-11-10): Afreximbank initiated legal proceedings against South Sudan over an alleged defaulted $657 million debt facility.
+- What to watch: Legal defense by Juba, potential international credit rating damage, and impacts on commercial loan access or fuel/food import backing.
 
-### Forex Shortages, Inflation, and Market Regulation
-* First-seen: 2026-11-09
-* Latest status: 2026-11-09: Juba residents face sharp commodity price increases due to South Sudanese pound depreciation. Telecom firms report severe forex access issues, while the IMF scheduled upcoming review missions. The Ministry of Trade established the Competition and Consumer Protection Authority to address market monopolies.
-* What to watch: Market intervention tactics by the new authority, outcomes of the IMF staff review, and forex availability for essential business operations.
+### Offer of 14 Oil Exploration Blocks
+- First seen: 2026-11-10
+- Latest status (2026-11-10): The government formally offered 14 oil blocks to foreign investors to boost national crude production to 230,000 bpd ahead of the South Sudan Oil & Power 2026 conference.
+- What to watch: Investor bids (including participation from the South African National Petroleum Company/SANPC) and progress on Block B2.
 
-### U.S.-South Sudan Relations and UN Mandate Review
-* First-seen: 2026-11-09
-* Latest status: 2026-11-09: South Sudan's Foreign Ministry rejected recent U.S. sanctions. Meanwhile, U.S. diplomats warned that UN peacekeeping operations in the region must adapt or risk closure.
-* What to watch: Negotiations surrounding UN mandate renewals and international aid/investment flows.
+### Security Escalation in Jonglei State and Electoral Risks
+- First seen: 2026-11-10
+- Latest status (2026-11-10): President Kiir reshuffled Jonglei State government officials following an attack on Miny Island and an ambush on UNMISS peacekeepers along the Pibor border. Concurrently, the U.S. issued a Level 4 travel warning and called for UNMISS structural adaptation at an open UN Security Council briefing.
+- What to watch: Voter registration security ahead of the planned December 22 general elections and potential UNMISS mandate alterations.
 
-### Nyamini Land Allocation Dispute
-* First-seen: 2026-11-09
-* Latest status: 2026-11-09: Central Equatoria State Governor Emmanuel Adil issued an executive order freezing land allocations in Nyamini due to conflicts between customary landowners and municipal planners.
-* What to watch: State government mediation outcome between customary land elders and municipal authorities.
+### Customs Automation at Nimule Border Post
+- First seen: 2026-11-10
+- Latest status (2026-11-10): The National Revenue Authority announced plans to deploy modern cargo scanners at Nimule, reducing required border customs personnel from 600 down to 50.
+- What to watch: Implementation timeline, clearing efficiency improvements, and displacement of border staff.
+
+### Proposed 100% Mobile Data Tariff Hike
+- First seen: 2026-11-10
+- Latest status (2026-11-10): Parliament announced plans to summon the National Communication Authority over a proposed 100% data price increase, driven by acute telecom foreign exchange shortages.
+- What to watch: Parliamentary response and economic impact on mobile money adoption across local markets.
 
 ## Numbers log
 
-* **3,161**: Identified voter registration centers for the December 22 elections (2026-11-09, Eye Radio).
-* **22,127**: Planned personnel deployment for voter registration nationwide (2026-11-09, Eye Radio).
-* **23**: Minimum death toll from pre-election political and sectional clashes (2026-11-09, Yeni Şafak / Daily Trust / Al Arabiya English).
-* **2**: Ugandan truck drivers killed inside South Sudan prior to the Elegu border reopening (2026-11-09, The Independent Uganda / Daily Monitor).
-* **100,000+**: Refugees and returnees who have crossed into South Sudan due to fighting in Sudan (2026-11-09, Eye Radio).
-* **$335 million**: Amount of legal claim brought against South Sudan by Sahara Energy over undelivered crude oil cargoes (2026-11-09, Law360).
+- $657 million: Defaulted debt facility claimed by Afreximbank in lawsuit against South Sudan (2026-11-10, Eye Radio).
+- 14: Number of oil blocks offered to foreign investors (2026-11-10, World Oil).
+- 230,000 bpd: Target national crude production capacity (2026-11-10, World Oil).
+- 600 down to 50: Projected reduction in border personnel at Nimule post via automated cargo scanners (2026-11-10, Eye Radio).
+- 100%: Proposed mobile data price increase under parliamentary review (2026-11-10, Eye Radio).
+- Level 4: Highest U.S. Department of State travel advisory level ("Do Not Travel") applied to South Sudan (2026-11-10, Eye Radio).
 
 ## Rumors log
 
-* **Claim**: Fishing net dispute sparked the 2024 Nasir County clashes between the SSPDF and local youth.
-  * Label: Unverified / Contested claim
-  * Date: 2026-11-09
-  * Outcome: Testified by former FVP Riek Machar in special court; pending formal judicial findings.
-* **Claim**: Measles epidemic and police arrests following a station death reported in "Bor".
-  * Label: Baseless (Misattributed international reporting)
-  * Date: 2026-11-09
-  * Outcome: Debunked; news feeds misattributed reports from the city of Bor in Serbia to Bor Town, Jonglei State.
+- Claim: Measles epidemic breaking out in Bor Town, Jonglei State. | Label: Baseless | Date: 2026-11-10 | Outcome: Aggregators misattributed a health report from Bor, Serbia (14 cases); no outbreak reported in Jonglei State.
+- Claim: U.S. sanctions targeting telecom contractor Crawford Capital. | Label: Contested / Verified Action with Mixed Local Reaction | Date: 2026-11-10 | Outcome: U.S. Treasury implemented measures against Crawford Capital. ICT Ministry publicly rejected the sanctions, whereas local civil society activists backed them.
 
 ## Open questions
 
-* How will the NEC overcome logistical constraints and insecurity to begin voter registration ahead of the December 22 target?
-* Will security guarantees or compensation be provided to Ugandan transport unions to prevent further trade disruptions at Elegu?
-* What specific mechanisms will the newly formed Competition and Consumer Protection Authority use to monitor and regulate commodity prices in Juba?
-* What structural financial conditions will the IMF place on South Sudan during its upcoming review missions?
+- When will the Office of the President finalize the date for General Joseph Lagu Yanga's state funeral?
+- How will South Sudan manage the legal proceedings and credit fallout from the $657 million Afreximbank lawsuit?
+- Will Parliament intervene to block or alter the National Communication Authority's proposed 100% mobile data price hike?
+- How will the automated customs scanning system at Nimule impact logistics flow and displaced border personnel?
+- What structural changes will UNMISS face following U.S. warnings at the UN Security Council briefing?
