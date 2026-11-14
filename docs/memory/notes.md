@@ -1,58 +1,43 @@
 ## Ongoing storylines
 
-**Elections Preparedness & SPLM Primary Volatility**
-* First seen: 2026-11-13
-* Latest status (2026-11-13): SPLM primaries saw fatal political violence, including an ambush between Mundri East and West that killed parliamentary nominee Lucy Veronica Gordon and another delegate. Incumbents Paul Yoane Bonju, Paul Mayom, and Deng Monydit lost primary bids. South Africa informed the UNSC that AU assessments show South Sudan lacks technical and financial readiness for December elections.
-* What to watch: Disputes over primary results, candidate lineage eligibility challenges (e.g., in Jonglei), and election scheduling decisions.
+### 2026 General Election Timeline
+- First seen: 2026-11-14
+- Latest status (2026-11-14): The National Elections Commission (NEC) officially moved polling from December 22, 2026, to February 11, 2027. Voter registration begins November 14, 2026, and candidate nominations open November 29, 2026.
+- What to watch: Logistics and voter registration rollout starting November 14 in insecure rural counties, and candidate nominations starting November 29.
 
-**Ebola Risk Friction & Health Disagreements**
-* First seen: 2026-11-13
-* Latest status (2026-11-13): Six Western embassies warned of high Ebola outbreak risk, prompting the US CDC to extend 30-day entry restrictions for recent visitors. The South Sudanese government rejected claims of high outbreak risk, stating no cases are confirmed within its borders.
-* What to watch: Health system preparedness monitoring, WHO assistance, and foreign travel/diplomatic restrictions.
+### Local Insecurity and Violence
+- First seen: 2026-11-14
+- Latest status (2026-11-14): Land and cattle clashes between the Nyang-rup and Nyang-wier sections in Tonj East County (Warrap State) left at least four dead. Unidentified gunmen shot dead a local administrator and his deputy in Aweil East County. An ambush in Mundri East killed veteran journalist Veronica Lucy Gordon and another delegate.
+- What to watch: Impact of rural violence on local governance, voter registration access, and transport corridor safety.
 
-**Wau County Disarmament Operation**
-* First seen: 2026-11-13
-* Latest status (2026-11-13): The SSPDF Fifth Infantry Division and state police launched a six-month civilian disarmament campaign in Wau County, Western Bahr el Ghazal, to retrieve illegal small arms.
-* What to watch: Violence levels and local compliance during the six-month operation ahead of polling.
+### Ebola Preparedness and Health Travel Restrictions
+- First seen: 2026-11-14
+- Latest status (2026-11-14): WHO is supporting South Sudan on Ebola Bundibugyo virus preparedness prior to any confirmed cases. Meanwhile, the US CDC extended health-related entry restrictions into December.
+- What to watch: Potential laboratory confirmation of active cases by the Ministry of Health.
 
-**US Diplomatic Pushback on UNMISS Obstruction**
-* First seen: 2026-11-13
-* Latest status (2026-11-13): US Ambassador Jennifer Locetta warned Juba that persistent military confrontations and obstruction of UNMISS peacekeepers will negatively impact US diplomatic engagement and assistance.
-* What to watch: Government policy adjustments regarding UNMISS access and bilateral US relations.
+### Juba Sanitation Enforcement
+- First seen: 2026-11-14
+- Latest status (2026-11-14): Juba Caretaker Mayor Christopher Sarafino Wani Swaka announced a December deadline to begin active law enforcement and fines for illegal waste dumping.
+- What to watch: Municipal enforcement actions and private waste management demand starting December.
 
-**Oil Sector Output Target & Upstream Blocks**
-* First seen: 2026-11-13
-* Latest status (2026-11-13): South Sudan opened 14 upstream oil blocks for international bidding aiming to reach 230,000 bpd crude production, while holding joint pipeline logistics talks with Sudan in Port Sudan.
-* What to watch: Bidding outcomes at the SSOP 2026 conference and cross-border pipeline operational continuity.
-
-**State Burial of Gen. Joseph Lagu Yanga**
-* First seen: 2026-11-13
-* Latest status (2026-11-13): Gen. Lagu was buried in Juba; his daughter revealed his true age at death was 102 (born 1924) rather than official records of 94. Madi youth requested a university in Nimule and hospital in his honor.
-* What to watch: National government response to proposed memorial infrastructure projects.
+### Food Import Dependence and Trade Attachés
+- First seen: 2026-11-14
+- Latest status (2026-11-14): With an annual food import bill of $800 million, the South Sudan Chamber of Commerce requested the government appoint trade attachés to key foreign embassies to stabilize food supply chains.
+- What to watch: Government response regarding foreign embassy trade attaché appointments.
 
 ## Numbers log
 
-* **102 years**: True age of Gen. Joseph Lagu Yanga at death (born 1924), correcting official records of 94 (2026-11-13, Eye Radio).
-* **230,000 bpd**: Target crude oil production capacity following the offering of 14 upstream oil blocks (2026-11-13, The Eastleigh Voice / UA.NEWS).
-* **14**: Upstream oil blocks offered to international investors (2026-11-13, The Eastleigh Voice / UA.NEWS).
-* **6 months**: Planned duration of civilian disarmament campaign in Wau County (2026-11-13, Sudans Post / Eye Radio).
-* **30 days**: US CDC entry restriction extension for travelers visiting South Sudan, Uganda, or DRC (2026-11-13, Fragomen / BAL Immigration).
+- **$800 million**: Annual food import bill for South Sudan, cited by UN expert (2026-11-14, Eye Radio).
+- **SSP 108.2 billion**: Approved draft budget for Central Equatoria State (2026-11-14, Eye Radio).
+- **4**: Confirmed fatalities from section clashes in Tonj East County, Warrap State (2026-11-14, Eye Radio).
 
 ## Rumors log
 
-* **Claim**: South Sudan faces a 99% / critical risk of an Ebola outbreak.
-  * **Label**: Unverified / Contested
-  * **Date**: 2026-11-13
-  * **Outcome**: Western embassies warned of high risk; national government firmly denied any confirmed cases exist.
-
-* **Claim**: Madi youth representatives requested a Nimule university and regional hospital named after Gen. Joseph Lagu.
-  * **Label**: Possibly True (Community Petition)
-  * **Date**: 2026-11-13
-  * **Outcome**: Request publicly voiced during funeral proceedings; government response pending.
+- **Active Ebola Outbreak in South Sudan**: Unverified / Contested (2026-11-14). International reports cite high risk levels and extended US travel restrictions, but health authorities state there are no active confirmed cases. Outcome: Pending laboratory confirmation by the Ministry of Health.
+- **Rachael Nyadak Gubernatorial Candidate Disqualification**: Unverified / Contested Political Dispute (2026-11-14). A Lou Nuer Chief in Jonglei challenged her candidacy for governor based on marital ties to Gogrial East County in Warrap State. Outcome: Pending formal review or ruling by electoral authorities or party leadership.
 
 ## Open questions
 
-* Will SPLM leadership uphold or reject lineage and marital eligibility challenges brought against candidates by local chiefs (e.g., Rachael Nyadak Paul in Jonglei)?
-* How will the national government address South Africa's statement to the UNSC declaring South Sudan unprepared for December elections?
-* Will the six-month disarmament operation in Wau County successfully curb illegal firearms before elections?
-* Will Prof. John Akech's proposal for a healthcare payroll tax gain formal legislative traction?
+- How will the NEC carry out voter registration infrastructure rollout starting November 14 in areas with active security threats like Tonj East and Aweil East?
+- Will the national government approve the Chamber of Commerce's request to appoint trade attachés to reduce food supply risks?
+- How will the appointment of former IGP Gen. Atem Marol Biar as Interior Undersecretary impact domestic security enforcement along regional transit routes?
