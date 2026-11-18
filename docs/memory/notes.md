@@ -1,65 +1,56 @@
 ## Ongoing storylines
 
-**National Elections Schedule**
-* First seen: 2026-11-17
-* Latest status (2026-11-17): The National Elections Commission (NEC) officially pushed the general election date to February 2027, citing Article 57 of the Elections Act to allow time for key preparations.
-* What to watch: Public and political reactions to the extended transitional period, and NEC progress on election preparations throughout 2026.
+### 2027 Election Extension and Political Pushback
+- First seen: 2026-11-18
+- Latest status (2026-11-18): The African National Congress (ANC) rejected the National Elections Commission’s (NEC) decision to move general elections to February 11, 2027, questioning its legal authority under the Elections Act. Concurrently, the NEC authorized 29 new voter registration centers in Juba, and the Ministry of General Education stated the February 2027 date will not disrupt the school calendar.
+- What to watch: Opposition legal challenges regarding statutory provisions of the Elections Act (such as Article 57) and political negotiations over the transition timeline.
 
-**Aweil East SPLM Primary Contest**
-* First seen: 2026-11-17
-* Latest status (2026-11-17): The SPLM committee overturned a previous decision disqualifying Yel Deng Nguel for being an active military officer, reinstating him as the primary winner.
-* What to watch: Legal or political challenges regarding military officer eligibility in party primaries.
+### Exam Logistics and Insecurity in Jonglei and Unity
+- First seen: 2026-11-18
+- Latest status (2026-11-18): Jonglei State resolved to move Primary Eight and Senior Four candidates from Akobo to Bor due to insecurity, but Akobo parents are refusing to send their children. Civil society leaders in Unity State requested similar transport arrangements for candidates in Panyijiar County.
+- What to watch: Whether state governments resolve parental resistance or if insecurity prevents candidates from sitting national examinations.
 
-**Jonglei State Student Exam Relocations**
-* First seen: 2026-11-17
-* Latest status (2026-11-17): The state government began moving Primary Eight and Senior Four candidates from Akobo to Bor due to local insecurity and logistics. Civil society is advocating for over 500 excluded students in rebel-controlled areas.
-* What to watch: Safe arrival and testing of relocated candidates in Bor, and whether special exams will be approved for rebel-held areas.
+### Diplomatic Protest Over Abyei and Northern Border Tensions
+- First seen: 2026-11-18
+- Latest status (2026-11-18): South Sudan formally protested its exclusion from UN Security Council drafting consultations regarding Resolution 2838 on UNISFA in Abyei. Juba is also monitoring Sudanese Armed Forces (SAF) military movements in Kordofan and along the Ethiopian border.
+- What to watch: Adoption and terms of Resolution 2838, and potential cross-border regional impacts from SAF deployments.
 
-**NGO Re-registration Mandate**
-* First seen: 2026-11-17
-* Latest status (2026-11-17): The Ministry of Humanitarian Affairs issued Ministerial Order No. 03 of 2026, ordering all national and international NGOs to re-register by December 21, 2026, to prove funding transparency and local employment compliance.
-* What to watch: NGO compliance rates and potential disruption to aid operations.
+### Upper Nile Oil Revenue Ultimatum
+- First seen: 2026-11-18
+- Latest status (2026-11-18): The Maluth Youth Association in Upper Nile State issued a 72-hour ultimatum to petroleum authorities, demanding accountability and immediate release of the accrued 3% oil revenue share reserved for host communities.
+- What to watch: Petroleum authority response before the 72-hour deadline expires.
 
-**SSPDF Occupation of Kapoeta School**
-* First seen: 2026-11-17
-* Latest status (2026-11-17): SSPDF soldiers have occupied Longeliya Primary School in Kapoeta since late October, displacing 106 pupils ahead of national exams.
-* What to watch: Local authority efforts to secure alternative exam venues or secure the military's withdrawal.
+### Post-Primary Violence in Eastern Equatoria
+- First seen: 2026-11-18
+- Latest status (2026-11-18): Supporters of a defeated SPLM primary candidate physically attacked residents in Iteuso Village, Ikwoto County, accusing them of voting against the candidate.
+- What to watch: Localized mediation efforts and potential escalation of intra-party electoral violence.
 
-**Sudan War Spillover & Regional Border Tensions**
-* First seen: 2026-11-17
-* Latest status (2026-11-17): SAF gains in Kordofan have moved frontlines closer to South Sudan's northern border. Meanwhile, Sudan deployed five combat units to Blue Nile amid escalating tensions with Ethiopia.
-* What to watch: Border security incidents, drone strike risks, and refugee movements along the northern border.
+### Detention Challenge of Former Presidential Official
+- First seen: 2026-11-18
+- Latest status (2026-11-18): The Supreme Court Constitutional Panel ruled it lacks jurisdiction to grant temporary release to Ajing Deng Ajing, former Executive Director in the Office of the President, while his case is under active criminal investigation.
+- What to watch: Progress of the criminal investigation and future constitutional court proceedings.
 
-**Juba National Basketball Stadium Project**
-* First seen: 2026-11-17
-* Latest status (2026-11-17): Ministry of Youth and Sports signed an MoU with a Chinese construction firm to build a 15,000-seat national basketball stadium.
-* What to watch: Siting, land acquisition, and commencement of construction.
+### US Court Overturns Immigrant Visa Ban
+- First seen: 2026-11-18
+- Latest status (2026-11-18): A US court overturned an immigrant visa ban affecting South Sudan and 25 other African nations.
+- What to watch: Implementation of the court decision and changes to visa processing for South Sudanese travelers.
 
 ## Numbers log
 
-* 2026-11-17: $800 million — Annual spending by South Sudan on food imports (Source: UN expert / Eye Radio)
-* 2026-11-17: $1.02 billion — Award against South Sudan to Qatar National Bank facing global enforcement risk (Source: Eye Radio)
-* 2026-11-17: 3 trillion SSP — Claimed amount of currency damaged by rats in Central Bank, officially denied (Source: Eye Radio)
-* 2026-11-17: $5 — Resolved stamp duty passenger levy dispute at Wau airport (Source: Eye Radio)
-* 2026-11-17: 15,000 seats — Capacity of planned national basketball stadium in Juba (Source: Sudans Post, Eye Radio)
-* 2026-11-17: 500+ — Number of students in rebel-controlled Jonglei areas excluded from national exams (Source: Sudans Post, Eye Radio)
-* 2026-11-17: 106 — Pupils displaced from Longeliya Primary School in Kapoeta by SSPDF occupation (Source: Sudans Post)
-* 2026-11-17: 5 combat units — SAF deployment to the Blue Nile region near the Ethiopian border (Source: Morning Star, Addis Standard)
+- 2026-11-18: Up to 10,000,000 SSP — Fine imposed under Juba City Council Local Order No. 04/2026 for selling alcohol to minors or mixing alcohol into food (Source: Eye Radio).
+- 2026-11-18: 29 — New Voter Registration Centres authorized in Juba by the NEC (Source: Eye Radio).
+- 2026-11-18: 3% — Accrued oil revenue share demanded by the Maluth Youth Association for host communities (Source: Eye Radio).
+- 2026-11-18: ~11,000 Sudanese pounds to 1 USD — Currency depreciation in neighboring Sudan, with customs dollar rate adjusted upward to 6,539 pounds (Source: Sudan Tribune, DNE Africa).
+- 2026-11-18: 15,000 — Seating capacity for planned national basketball stadium in Juba (Source: Sudans Post).
 
 ## Rumors log
 
-* **Claim:** Rats ate or damaged 3 trillion SSP inside the Central Bank vault.
-  * **Label:** False / Baseless.
-  * **Date:** 2026-11-17.
-  * **Outcome:** Officially rejected by the Central Bank.
-* **Claim:** High risk of Ebola importation into South Sudan.
-  * **Label:** Unverified (Preventive warning).
-  * **Date:** 2026-11-17.
-  * **Outcome:** Triggered increased border health screening by authorities after warnings from six neighboring nations.
+- Central Bank links SSP plunge to public sector pay raises — Unverified / Contested economic narrative (2026-11-18). Market actors attribute inflation to structural supply deficits and foreign exchange shortages instead (Source: Eye Radio).
+- Hijacking of A&B Energy fuel station assets by foreign partners — Unverified commercial dispute (2026-11-18). Requires court filings and property registry checks for verification (Source: Eye Radio).
 
 ## Open questions
 
-* Will civil society succeed in securing special national exams for the 500+ excluded students in rebel-held areas of Jonglei?
-* Where will the 106 displaced Kapoeta primary pupils sit for their exams if SSPDF troops do not vacate Longeliya Primary School?
-* Will international and national NGOs meet the December 21, 2026 re-registration deadline without operational suspensions?
-* What is the timeline and site location for the proposed Grand Fulla Hydropower project study?
+- Will legal challenges by political parties force the NEC to revise its February 2027 election schedule?
+- How will Jonglei State administer national exams if Akobo parents refuse student relocation to Bor?
+- How will petroleum authorities react to the Maluth Youth Association's 72-hour ultimatum?
+- Will UNSC drafting procedures for UNISFA mandate extensions change following Juba's formal protest?
