@@ -1,56 +1,61 @@
 ## Ongoing storylines
 
-### 2027 Election Extension and Political Pushback
-- First seen: 2026-11-18
-- Latest status (2026-11-18): The African National Congress (ANC) rejected the National Elections Commission’s (NEC) decision to move general elections to February 11, 2027, questioning its legal authority under the Elections Act. Concurrently, the NEC authorized 29 new voter registration centers in Juba, and the Ministry of General Education stated the February 2027 date will not disrupt the school calendar.
-- What to watch: Opposition legal challenges regarding statutory provisions of the Elections Act (such as Article 57) and political negotiations over the transition timeline.
+### Feb 2027 Election Extension and Technical Preparations
+* **First-seen:** 2026-11-19
+* **Latest status (2026-11-19):** An African Union election expert arrived in Juba to assist the National Elections Commission (NEC) with voter registration preparations. Episcopal Diocese leadership thanked President Kiir for the extension, while the African National Congress (ANC) rejected the delay and filed a legal challenge claiming the NEC lacks authority to alter statutory polling dates.
+* **What to watch:** ANC legal challenge proceedings, voter registration progress, and technical support from the AU.
 
-### Exam Logistics and Insecurity in Jonglei and Unity
-- First seen: 2026-11-18
-- Latest status (2026-11-18): Jonglei State resolved to move Primary Eight and Senior Four candidates from Akobo to Bor due to insecurity, but Akobo parents are refusing to send their children. Civil society leaders in Unity State requested similar transport arrangements for candidates in Panyijiar County.
-- What to watch: Whether state governments resolve parental resistance or if insecurity prevents candidates from sitting national examinations.
+### Oil Exploration Bidding and Domestic Refining Push
+* **First-seen:** 2026-11-19
+* **Latest status (2026-11-19):** Caretaker Petroleum Minister Awow Daniel Chuang announced the offering of 14 oil exploration blocks to push crude production above 200,000 bpd within two years. The government also announced plans for two domestic oil refineries.
+* **What to watch:** Investor bidding responses and pipeline security/transit arrangements through Sudan.
 
-### Diplomatic Protest Over Abyei and Northern Border Tensions
-- First seen: 2026-11-18
-- Latest status (2026-11-18): South Sudan formally protested its exclusion from UN Security Council drafting consultations regarding Resolution 2838 on UNISFA in Abyei. Juba is also monitoring Sudanese Armed Forces (SAF) military movements in Kordofan and along the Ethiopian border.
-- What to watch: Adoption and terms of Resolution 2838, and potential cross-border regional impacts from SAF deployments.
+### Cross-Border Logistics and Energy Infrastructure
+* **First-seen:** 2026-11-19
+* **Latest status (2026-11-19):** The South Sudan–Uganda border crossing at Elegu officially reopened. South Sudan signed an agreement with NELSAP-CU to conduct feasibility studies for the Grand Fulla hydropower project.
+* **What to watch:** Trade volume recovery through Elegu and timeline for the Grand Fulla study.
 
-### Upper Nile Oil Revenue Ultimatum
-- First seen: 2026-11-18
-- Latest status (2026-11-18): The Maluth Youth Association in Upper Nile State issued a 72-hour ultimatum to petroleum authorities, demanding accountability and immediate release of the accrued 3% oil revenue share reserved for host communities.
-- What to watch: Petroleum authority response before the 72-hour deadline expires.
+### Student Exam Logistics in Jonglei and Unity States
+* **First-seen:** 2026-11-19
+* **Latest status (2026-11-19):** Candidates from Akobo were successfully relocated to Bor in Jonglei State. Civil society leaders requested Unity State authorities to arrange similar transport for students in Panyijiar County.
+* **What to watch:** Unity State government response regarding Panyijiar candidate transport.
+
+### Local Regulatory Enforcement and Vice Crackdowns
+* **First-seen:** 2026-11-19
+* **Latest status (2026-11-19):** Juba City Council issued Local Order No. 04 of 2026 fining establishments selling alcohol to minors. Mundri West seized an illegal alcohol/drugs truck. Juba authorities inspected local factories under a 3-week-old compliance investigation, while revenue and telecom authorities drafted an MoU to regulate and tax betting.
+* **What to watch:** Publication of factory inspection findings and finalization of the betting regulation MoU.
 
 ### Post-Primary Violence in Eastern Equatoria
-- First seen: 2026-11-18
-- Latest status (2026-11-18): Supporters of a defeated SPLM primary candidate physically attacked residents in Iteuso Village, Ikwoto County, accusing them of voting against the candidate.
-- What to watch: Localized mediation efforts and potential escalation of intra-party electoral violence.
-
-### Detention Challenge of Former Presidential Official
-- First seen: 2026-11-18
-- Latest status (2026-11-18): The Supreme Court Constitutional Panel ruled it lacks jurisdiction to grant temporary release to Ajing Deng Ajing, former Executive Director in the Office of the President, while his case is under active criminal investigation.
-- What to watch: Progress of the criminal investigation and future constitutional court proceedings.
-
-### US Court Overturns Immigrant Visa Ban
-- First seen: 2026-11-18
-- Latest status (2026-11-18): A US court overturned an immigrant visa ban affecting South Sudan and 25 other African nations.
-- What to watch: Implementation of the court decision and changes to visa processing for South Sudanese travelers.
+* **First-seen:** 2026-11-19
+* **Latest status (2026-11-19):** Violence erupted in Ikwoto County, Eastern Equatoria, after supporters of a defeated SPLM primary candidate attacked voters in Iteuso Village.
+* **What to watch:** Local security interventions and potential further retaliation.
 
 ## Numbers log
 
-- 2026-11-18: Up to 10,000,000 SSP — Fine imposed under Juba City Council Local Order No. 04/2026 for selling alcohol to minors or mixing alcohol into food (Source: Eye Radio).
-- 2026-11-18: 29 — New Voter Registration Centres authorized in Juba by the NEC (Source: Eye Radio).
-- 2026-11-18: 3% — Accrued oil revenue share demanded by the Maluth Youth Association for host communities (Source: Eye Radio).
-- 2026-11-18: ~11,000 Sudanese pounds to 1 USD — Currency depreciation in neighboring Sudan, with customs dollar rate adjusted upward to 6,539 pounds (Source: Sudan Tribune, DNE Africa).
-- 2026-11-18: 15,000 — Seating capacity for planned national basketball stadium in Juba (Source: Sudans Post).
+* **2026-11-19:** SSP 10,000,000 fine for selling alcohol to minors under Juba City Council Local Order No. 04 of 2026 *(Sudans Post)*.
+* **2026-11-19:** 14 oil exploration blocks offered to investors to increase production past 200,000 barrels per day within two years *(Sudans Post)*.
+* **2026-11-19:** 2 domestic crude oil refineries planned *(Eye Radio)*.
+* **2026-11-19:** 165 legal officers appointed by Ministry of Justice (35 Second Legal Counsels, 130 Assistant Legal Counsels) *(Eye Radio)*.
+* **2026-11-19:** 15,000-seat national basketball stadium planned in Juba *(Sudans Post)*.
+* **2026-11-19:** 6,539 Sudanese pounds per USD (customs dollar rate in Sudan, up 16%) *(DNE Africa, Sudan Tribune)*.
 
 ## Rumors log
 
-- Central Bank links SSP plunge to public sector pay raises — Unverified / Contested economic narrative (2026-11-18). Market actors attribute inflation to structural supply deficits and foreign exchange shortages instead (Source: Eye Radio).
-- Hijacking of A&B Energy fuel station assets by foreign partners — Unverified commercial dispute (2026-11-18). Requires court filings and property registry checks for verification (Source: Eye Radio).
+* **Sudan–South Sudan Border Closure**
+  * **Claim:** The border between Sudan and South Sudan was shut down.
+  * **Label:** Likely baseless.
+  * **Date:** 2026-11-19.
+  * **Outcome:** Publicly dismissed by civil society leaders in Abyei, who confirmed border movement remains open *(Eye Radio)*.
+
+* **Juba Factory Operational Violations**
+  * **Claim:** Manufacturing plants in Juba are committing regulatory and operational violations.
+  * **Label:** Unverified.
+  * **Date:** 2026-11-19.
+  * **Outcome:** Inspection conducted by Trade Ministry and Juba County Commissioner following a 3-week investigation; official findings pending *(Eye Radio)*.
 
 ## Open questions
 
-- Will legal challenges by political parties force the NEC to revise its February 2027 election schedule?
-- How will Jonglei State administer national exams if Akobo parents refuse student relocation to Bor?
-- How will petroleum authorities react to the Maluth Youth Association's 72-hour ultimatum?
-- Will UNSC drafting procedures for UNISFA mandate extensions change following Juba's formal protest?
+* What will be the ruling or outcome regarding the ANC's legal challenge against the election postponement to February 2027?
+* What findings will emerge from the Trade Ministry's investigation into Juba factories?
+* Will Unity State provide transport logistics for exam candidates in Panyijiar County?
+* What legal protections for digital software, music, and media will be included in the Ministry of Culture's upcoming Copyright Bill?
