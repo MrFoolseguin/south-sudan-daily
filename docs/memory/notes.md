@@ -1,61 +1,57 @@
 ## Ongoing storylines
 
-### Feb 2027 Election Extension and Technical Preparations
-* **First-seen:** 2026-11-19
-* **Latest status (2026-11-19):** An African Union election expert arrived in Juba to assist the National Elections Commission (NEC) with voter registration preparations. Episcopal Diocese leadership thanked President Kiir for the extension, while the African National Congress (ANC) rejected the delay and filed a legal challenge claiming the NEC lacks authority to alter statutory polling dates.
-* **What to watch:** ANC legal challenge proceedings, voter registration progress, and technical support from the AU.
+### Elections & Timetable Legal Challenges
+* First seen: 2026-11-20
+* Latest status (2026-11-20): Following an African National Congress court challenge, the South Sudan National Alliance of Political Parties issued a 72-hour ultimatum to the National Elections Commission, threatening legal action over election schedule violations.
+* What to watch: NEC response to the ultimatum and potential court injunctions impacting the election timeline.
 
-### Oil Exploration Bidding and Domestic Refining Push
-* **First-seen:** 2026-11-19
-* **Latest status (2026-11-19):** Caretaker Petroleum Minister Awow Daniel Chuang announced the offering of 14 oil exploration blocks to push crude production above 200,000 bpd within two years. The government also announced plans for two domestic oil refineries.
-* **What to watch:** Investor bidding responses and pipeline security/transit arrangements through Sudan.
+### SPLM Internal Primary Feuds
+* First seen: 2026-11-20
+* Latest status (2026-11-20): The SPLM national secretariat accused Presidential Adviser Hussein Abdelbaggi Akol of improper interference in Aweil primaries. Separately, defeated aspirant Alphonse Muras Chacha publicly denied involvement in a post-primary assault in Ikwoto County.
+* What to watch: Party disciplinary actions, official responses, or reconciliation efforts ahead of upcoming elections.
 
-### Cross-Border Logistics and Energy Infrastructure
-* **First-seen:** 2026-11-19
-* **Latest status (2026-11-19):** The South Sudan–Uganda border crossing at Elegu officially reopened. South Sudan signed an agreement with NELSAP-CU to conduct feasibility studies for the Grand Fulla hydropower project.
-* **What to watch:** Trade volume recovery through Elegu and timeline for the Grand Fulla study.
+### Akobo Exam Logistics Reversal
+* First seen: 2026-11-20
+* Latest status (2026-11-20): Parents, students, and the SPLM-IO county commissioner in Akobo explicitly rejected state plans to relocate exam candidates to Bor, citing security risks along the transit route.
+* What to watch: Alternative exam center arrangements proposed by state or national education authorities.
 
-### Student Exam Logistics in Jonglei and Unity States
-* **First-seen:** 2026-11-19
-* **Latest status (2026-11-19):** Candidates from Akobo were successfully relocated to Bor in Jonglei State. Civil society leaders requested Unity State authorities to arrange similar transport for students in Panyijiar County.
-* **What to watch:** Unity State government response regarding Panyijiar candidate transport.
+### SSPDF–SPLA-IO Clashes in Tambura
+* First seen: 2026-11-20
+* Latest status (2026-11-20): Resurgent clashes between the SSPDF and SPLA-IO in Tambura County, Western Equatoria, forced over 300 IDPs to flee their shelters.
+* What to watch: De-escalation measures, security deployments, and humanitarian aid delivery to displaced populations.
 
-### Local Regulatory Enforcement and Vice Crackdowns
-* **First-seen:** 2026-11-19
-* **Latest status (2026-11-19):** Juba City Council issued Local Order No. 04 of 2026 fining establishments selling alcohol to minors. Mundri West seized an illegal alcohol/drugs truck. Juba authorities inspected local factories under a 3-week-old compliance investigation, while revenue and telecom authorities drafted an MoU to regulate and tax betting.
-* **What to watch:** Publication of factory inspection findings and finalization of the betting regulation MoU.
+### Kapoeta Security Force Killings
+* First seen: 2026-11-20
+* Latest status (2026-11-20): Kapoeta South County Commissioner confirmed security forces arrested and subsequently killed Kapoeta SPLM secretary Alex Lotyem and Matthew Loteyo at a local hotel.
+* What to watch: Investigations, legal accountability, and community reaction in Kapoeta.
 
-### Post-Primary Violence in Eastern Equatoria
-* **First-seen:** 2026-11-19
-* **Latest status (2026-11-19):** Violence erupted in Ikwoto County, Eastern Equatoria, after supporters of a defeated SPLM primary candidate attacked voters in Iteuso Village.
-* **What to watch:** Local security interventions and potential further retaliation.
+### Petronas Exit and Oil Sector Bids
+* First seen: 2026-11-20
+* Latest status (2026-11-20): Malaysian energy company Petronas withdrew from South Sudan. Meanwhile, the Ministry of Petroleum offered 14 exploration blocks to foreign investors to boost production above 200k bpd in two years.
+* What to watch: Foreign investor interest in open blocks and shifts in downstream energy logistics.
+
+### US–South Sudan Diplomatic Friction
+* First seen: 2026-11-20
+* Latest status (2026-11-20): A US federal court overturned an immigrant visa ban, but bilateral relations remain strained after South Sudan rejected recent US sanctions and a US envoy warned leadership of impending consequences over political stagnation.
+* What to watch: Potential US sanctions implementation and official policy responses from Juba.
+
+### Juba Illegal Land Demarcation Suspension
+* First seen: 2026-11-20
+* Latest status (2026-11-20): Juba County Caretaker Commissioner Maulano Kalisto Lado suspended all illegal land demarcations across Juba County to curb land grabbing.
+* What to watch: Enforcement actions by the Juba County Commission and Ministry of Housing.
 
 ## Numbers log
-
-* **2026-11-19:** SSP 10,000,000 fine for selling alcohol to minors under Juba City Council Local Order No. 04 of 2026 *(Sudans Post)*.
-* **2026-11-19:** 14 oil exploration blocks offered to investors to increase production past 200,000 barrels per day within two years *(Sudans Post)*.
-* **2026-11-19:** 2 domestic crude oil refineries planned *(Eye Radio)*.
-* **2026-11-19:** 165 legal officers appointed by Ministry of Justice (35 Second Legal Counsels, 130 Assistant Legal Counsels) *(Eye Radio)*.
-* **2026-11-19:** 15,000-seat national basketball stadium planned in Juba *(Sudans Post)*.
-* **2026-11-19:** 6,539 Sudanese pounds per USD (customs dollar rate in Sudan, up 16%) *(DNE Africa, Sudan Tribune)*.
+* 2026-11-20: 14 oil exploration blocks offered to foreign investors (Source: Sudans Post / Ministry of Petroleum)
+* 2026-11-20: Target crude oil output of >200,000 barrels per day within two years (Source: Sudans Post)
+* 2026-11-20: 300+ IDPs displaced by SSPDF–SPLA-IO clashes in Tambura County (Source: Eye Radio)
+* 2026-11-20: 12,000 Sudanese pounds per USD exchange rate in Khartoum (Source: Sudan Tribune)
+* 2026-11-20: Drone strikes cause nearly 75% (three-quarters) of war deaths in Sudan this year (Source: UN / CNBC Africa / Sudan Tribune)
 
 ## Rumors log
-
-* **Sudan–South Sudan Border Closure**
-  * **Claim:** The border between Sudan and South Sudan was shut down.
-  * **Label:** Likely baseless.
-  * **Date:** 2026-11-19.
-  * **Outcome:** Publicly dismissed by civil society leaders in Abyei, who confirmed border movement remains open *(Eye Radio)*.
-
-* **Juba Factory Operational Violations**
-  * **Claim:** Manufacturing plants in Juba are committing regulatory and operational violations.
-  * **Label:** Unverified.
-  * **Date:** 2026-11-19.
-  * **Outcome:** Inspection conducted by Trade Ministry and Juba County Commissioner following a 3-week investigation; official findings pending *(Eye Radio)*.
+* Starvation, extortion, and guard abuse of US deportees in South Sudan detention | Label: Unverified / Contested | Date: 2026-11-20 | Outcome: International outlets cite testimonies from families and legal advocates, while South Sudanese officials explicitly deny mistreatment. Verification by local human rights monitors in Juba is needed.
 
 ## Open questions
-
-* What will be the ruling or outcome regarding the ANC's legal challenge against the election postponement to February 2027?
-* What findings will emerge from the Trade Ministry's investigation into Juba factories?
-* Will Unity State provide transport logistics for exam candidates in Panyijiar County?
-* What legal protections for digital software, music, and media will be included in the Ministry of Culture's upcoming Copyright Bill?
+* Will the National Elections Commission respond to or adjust its schedule following the South Sudan National Alliance's 72-hour ultimatum?
+* How will national primary examinations be conducted for Akobo candidates following the rejection of the Bor relocation plan?
+* Who will acquire Petronas's vacated assets and logistics in the oil sector?
+* Will security personnel responsible for the killings of Alex Lotyem and Matthew Loteyo in Kapoeta face prosecution?
