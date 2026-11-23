@@ -1,59 +1,42 @@
 ## Ongoing storylines
 
-### General Elections Rescheduled to Feb 2027
-* First-seen: 2026-11-22
-* Latest status (2026-11-22): The National Elections Commission (NEC) rescheduled polls from Dec 22, 2026, to Feb 11, 2027. President Kiir registered to vote, but SPLM-IO threatened a boycott while the South Sudan National Alliance of Political Parties issued a 72-hour legal ultimatum to the NEC. Voter turnout in Unity State is slowing due to uncertainty.
-* What to watch: SPLM-IO boycott decision, response to the legal ultimatum, and voter registration trends.
+### Tonj East Border Violence
+* First seen: 2026-11-23
+* Latest status: 2026-11-23 — Attackers targeted the Bolbol cattle camp in Luacjang, Tonj East County. Casualties are disputed, with eyewitness accounts reporting 87 dead and over 60 injured, while local authorities cite 21 dead by attackers from Mayendit County. Warrap and Unity states plan joint security deployments.
+* What to watch: Potential retaliatory youth violence across state borders and joint deployment effectiveness.
 
-### Nationwide Judges' Strike Paralyzes Courts
-* First-seen: 2026-11-22
-* Latest status (2026-11-22): Judges across South Sudan initiated a nationwide strike over working conditions and administrative grievances, halting civil hearings, formal dispute resolution, and land registry processing.
-* What to watch: Negotiations between judicial leadership and the executive, and when court operations resume.
+### Central Bank Forex Operator Crackdown
+* First seen: 2026-11-23
+* Latest status: 2026-11-23 — Bank of South Sudan issued a 30-day directive ordering all unlicensed foreign exchange dealers, street traders, and mobile operators to obtain legal licenses or face shutdown.
+* What to watch: Transition of liquidity into regulated banks, fintech licensing compliance, and impacts on informal businesses.
 
-### Government 200,000 MT Emergency Food Reserve Plan
-* First-seen: 2026-11-22
-* Latest status (2026-11-22): Cabinet approved a plan to purchase and stockpile 200,000 metric tonnes of food to assist over seven million food-insecure citizens.
-* What to watch: Contracting, cold-chain storage logistics, private haulage tenders, and distribution timelines.
+### Judicial Strike and Executive Action
+* First seen: 2026-11-23
+* Latest status: 2026-11-23 — Following nationwide courtroom closures and legal delays, President Kiir reportedly moved to dismiss judges participating in industrial action.
+* What to watch: Institutional freeze in civil court proceedings, commercial contract enforcement, and land registry processing.
 
-### Jonglei Cattle Raid Escalation (Poktap Attack)
-* First-seen: 2026-11-22
-* Latest status (2026-11-22): Six people were killed in a Poktap (Duk County) raid, including prominent Twic East wrestler Malou Bok Malou and Duk footballer Kuai Bol Kuai.
-* What to watch: Risk of retaliatory attacks between local youth and neighboring communities in Jonglei.
+### Secondary School Exams and University Capacity Pressure
+* First seen: 2026-11-23
+* Latest status: 2026-11-23 — 2026 national secondary exams commenced for 53,301 candidates. Officials warned that public universities face extreme seat shortages for over 40,000 projected qualifiers next year.
+* What to watch: Expansion of private vocational and higher education services to fill the capacity gap.
 
-### Kapoeta Extrajudicial SSPDF Killings
-* First-seen: 2026-11-22
-* Latest status (2026-11-22): Caretaker Governor Louis Lobong Lojore confirmed SSPDF soldiers killed two arrested young men in Kapoeta; suspected military perpetrators are detained in Juba.
-* What to watch: Court-martial proceedings and public accountability measures.
-
-### Central Equatoria Nyamini Land Dispute
-* First-seen: 2026-11-22
-* Latest status (2026-11-22): Governor suspended plot allocations and demarcations in Nyamini due to escalating community ownership disputes.
-* What to watch: Interventions by Central Equatoria land authorities and traditional leadership boards.
-
-### Sovereign Debt Litigation in Kenyan Courts
-* First-seen: 2026-11-22
-* Latest status (2026-11-22): External creditors initiated legal action in Kenya against South Sudan over debt defaults as IMF review missions approach.
-* What to watch: Rulings by Kenyan courts and outcome of upcoming IMF financial assessments.
+### U.S. Immigrant Visa Ban Overturned
+* First seen: 2026-11-23
+* Latest status: 2026-11-23 — A U.S. court struck down an immigrant visa ban affecting South Sudan and 25 other African nations.
+* What to watch: Reopening of family reunification visa processing for South Sudanese nationals.
 
 ## Numbers log
-
-* **200,000 metric tonnes**: Approved strategic emergency food stockpile volume (2026-11-22, *Sudans Post* / *Eye Radio*).
-* **7+ million**: Citizens targeted for relief under the emergency food plan (2026-11-22, *Sudans Post*).
-* **72 hours**: Legal ultimatum issued to NEC by the South Sudan National Alliance of Political Parties (2026-11-22, *Sudans Post*).
-* **6 deaths**: Fatalities reported in the Poktap, Duk County cattle raid (2026-11-22, *Eye Radio*).
-* **2 deaths**: Confirmed extrajudicial killings of youths in Kapoeta by SSPDF soldiers (2026-11-22, *Sudans Post*).
-* **1,080 bags**: Insect-infested rice turned away at the Nimule border by National Bureau of Standards (2026-11-22, *Eye Radio*).
-* **$7 million**: Joint South Sudan-Uganda Ebola border health response plan budget (2026-11-22, *CIDRAP*).
+* 2026-11-23: 53,301 secondary school exam candidates writing papers across 596 schools (Source: South Sudan National Examinations Council / Eye Radio).
+* 2026-11-23: 40,000+ projected secondary graduates expected to qualify for limited public university seats next year (Source: Caretaker Minister of General Education Dr. Kuyok Abol Kuyok / Eye Radio).
+* 2026-11-23: 30-day deadline given by Bank of South Sudan for unlicensed forex dealers to regularize (Source: Bank of South Sudan / Sudans Post, Eye Radio).
+* 2026-11-23: 87 dead and 60+ injured (Eyewitnesses / Sudans Post) vs. 21 dead (Local authorities / Eye Radio) in Bolbol cattle camp attack.
 
 ## Rumors log
-
-* **U.S. deportee abuse and extortion in Juba detention**: Unverified (2026-11-22). Reports claim deportees face hunger and guard extortion. Authorities previously denied mistreatment. *Outcome: Awaiting independent monitor access.*
-* **South Sudanese backing of RSF near Blue Nile border**: Unverified (2026-11-22). Sudanese military official accused South Sudan and Ethiopia of supporting RSF advances; Juba maintains official neutrality. *Outcome: Awaiting diplomatic verification.*
-* **H Brothers Trading distributing expired food**: Likely baseless / Clarified (2026-11-22). Lab tests by government committee established food was physically damaged in transit/storage, not expired. *Outcome: Clarified.*
+* Claim: South Sudan and Ethiopia are providing regional support to the Rapid Support Forces (RSF) in Sudan's civil war. Label: Unverified / Contested. Date: 2026-11-23. Outcome: South Sudan maintains an official policy of neutrality and mediation.
+* Claim: Non-South Sudanese deportees sent to Juba from the U.S. face hungry conditions and extortion by security guards. Label: Possibly true (Requires independent access to confirm). Date: 2026-11-23. Outcome: Authorities previously denied systemic abuse; pressure grows for independent inspection access.
+* Claim: H Brothers Trading repackaged and sold expired food items. Label: Likely baseless (Clarified legally, public hostile). Date: 2026-11-23. Outcome: Government inspection found food was damaged in transit, though social media skepticism persists.
 
 ## Open questions
-
-* Will the SPLM-IO follow through on its threat to boycott the rescheduled February 2027 elections?
-* How quickly will the government resolve judicial grievances to end the nationwide judges' strike?
-* What terms and private contractors will be used to execute the 200,000 MT strategic food procurement?
-* How will debt litigation in Kenyan courts impact South Sudan's standing in upcoming IMF reviews?
+* What are the specific capital requirements and legal documentation steps needed for money changers to comply with the Bank of South Sudan directive?
+* Will joint Warrap-Unity state security deployments successfully deter cross-border cattle camp retaliation between Tonj East and Mayendit County youth?
+* How will formal civil contract enforcement and property registration function following the reported dismissal of striking judges?
