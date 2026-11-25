@@ -1,53 +1,43 @@
 ## Ongoing storylines
 
-### National Election Timeline Dispute
-- First seen: 2026-11-24
-- Latest status (2026-11-24): The National Alliance of Political Parties petitioned the Supreme Court to overturn the National Elections Commission (NEC) decision moving general elections from December 22, 2026, to February 11, 2027.
-- What to watch: Supreme Court rulings, responses from the NEC, and political dialogue urged by civil society.
+### 2027 General Elections Preparation & Calendar
+- First seen: 2026-11-25
+- Latest status (2026-11-25): NEC announced a 54-day candidate nomination window (Nov 29, 2026 – Jan 21, 2027) and defended setting the election date for Feb 11, 2027. Registration launched at Juba Central Prison, temporary state IT recruitment began, and SPLM in Abyei nominated candidates despite formal objections from Sudan.
+- What to watch: Supreme Court ruling on opposition petition against election calendar adjustments; candidate nomination filings starting Nov 29.
 
-### Nasir Violence Special Court Case
-- First seen: 2026-11-24
-- Latest status (2026-11-24): Former First Vice President Riek Machar testified in special court, accusing President Kiir of ignoring written alerts and failing to convene the National Security Council prior to bloodshed in Nasir.
-- What to watch: Further court proceedings, evidence submitted, and political friction between key leadership factions.
+### Central Equatoria School Land Audit
+- First seen: 2026-11-25
+- Latest status (2026-11-25): Caretaker Governor Augustino Jadalla issued an order forming a high-level committee to review and audit school land leases, sales, and educational assets.
+- What to watch: Audit findings and potential revocation of commercial leases on educational plots.
 
-### Tonj East Cattle Camp Attack Attribution
-- First seen: 2026-11-24
-- Latest status (2026-11-24): Unity State officials publicly accused armed SPLM/A-IO elements of a cattle camp raid in Tonj East County. Official casualties stand at 21 dead and 18 injured, while eyewitness reports claim up to 87 dead and 60 injured.
-- What to watch: SPLM/A-IO response to accusations and potential security escalation along the Warrap-Unity border.
+### Unity Refinery Expansion & Energy Security
+- First seen: 2026-11-25
+- Latest status (2026-11-25): NILEPET is seeking private investment partners to expand Unity Refinery capacity to address domestic fuel shortages.
+- What to watch: Partner agreements, refinery expansion progress, and effort to reach crude output targets.
 
-### Healthcare Disruptions & Insecurity in Central Equatoria
-- First seen: 2026-11-24
-- Latest status (2026-11-24): MSF suspended all health activities in Yei River County for at least three months following the armed abduction of an MSF staff member and a Ministry of Health midwife.
-- What to watch: Status/release of abducted personnel, security guarantees for aid workers, and healthcare impacts on local communities.
+### Juba Municipal Code Enforcement
+- First seen: 2026-11-25
+- Latest status (2026-11-25): Juba City Council arrested 14 individuals in Hai Sujun for failing to construct mandatory soak pits and septic tanks following an expired Nov 11 deadline.
+- What to watch: Expansion of municipal public health code enforcement to other Juba neighborhoods.
 
-### Central Bank Forex Licensing Ultimatum
-- First seen: 2026-11-24
-- Latest status (2026-11-24): Bank of South Sudan (BoSS) issued a 30-day notice giving unlicensed foreign exchange dealers, street traders, and mobile operators 30 days to apply for official licenses or face closure and legal action.
-- What to watch: Compliance rates among informal traders, regulatory enforcement, and impacts on parallel market currency availability.
-
-### Rural Inter-Communal Violence (Lakes & Greater Pibor)
-- First seen: 2026-11-24
-- Latest status (2026-11-24): CEPO reported 4 killed in cattle-keeper clashes in Rumbek Centre County (Lakes State); an attack in Nyath Payam (Greater Pibor) left 3 dead and 1 wounded, with local authorities suspecting raiders from Kapoeta East.
-- What to watch: Local administrative responses and potential retaliatory cross-border raids.
+### US Immigrant Visa Ban Court Decision
+- First seen: 2026-11-25
+- Latest status (2026-11-25): A US court overturned a prior immigrant visa ban affecting South Sudan and 25 other African nations.
+- What to watch: Policy updates and visa processing changes following the court ruling.
 
 ## Numbers log
-- Proposed election delay: From December 22, 2026 to February 11, 2027 (2026-11-24, Sudans Post)
-- Tonj East casualties (official): 21 dead, 18 injured (2026-11-24, Sudans Post)
-- Tonj East casualties (eyewitnesses): Up to 87 dead, 60 injured (2026-11-24, Sudans Post)
-- Bor County social violation fine: SSP 500,000 (2026-11-24, Eye Radio)
-- MSF Yei operations suspension duration: Minimum 3 months (2026-11-24, Sudans Post)
-- Rumbek Centre clash deaths: 4 killed (2026-11-24, Eye Radio)
-- Nyath Payam attack casualties: 3 dead, 1 wounded (2026-11-24, Eye Radio)
-- Magwi-Palotaka rehabilitated feeder road: 44 kilometers (2026-11-24, Sudans Post)
-- Bank of South Sudan forex licensing window: 30 days (2026-11-24, Sudans Post)
+- $800 million: Annual South Sudan spending on food imports (2026-11-25, Eye Radio).
+- 200,000 bpd: Short-term oil production target for South Sudan (2026-11-25, Oil & Gas Middle East).
+- 400,000 bpd: Long-term oil production target by 2035 (2026-11-25, Oil & Gas Middle East).
+- 54 days: Candidate nomination period length (Nov 29, 2026 – Jan 21, 2027) (2026-11-25, Sudans Post).
+- 14: Individuals arrested in Hai Sujun over wastewater compliance (2026-11-25, Sudans Post).
 
 ## Rumors log
-- Allegations of crude oil revenue misappropriation by Chuol Laam | Unverified | 2026-11-24 | Outcome: Rejected publicly by Chuol Laam; awaiting potential Ministry of Finance or BoSS audit verification.
-- Alleged Egyptian military bombing raids in South Sudan | Unverified / Likely baseless | 2026-11-24 | Outcome: Promptly denied by officials; unverified by independent sources.
-- Alleged mistreatment and extortion of U.S. deportees in Juba detention | Unverified | 2026-11-24 | Outcome: Unverified family accounts; pending independent human rights inspections.
+- Image of Presidential Adviser meeting Russian Envoy | Label: Likely baseless | Date: 2026-11-25 | Outcome: Confirmed digitally altered by FactCheckHub.
+- Immediate forced evictions of communities in National Parks | Label: Unverified / Clarified | Date: 2026-11-25 | Outcome: Ministry of Wildlife clarified policy focuses on planned, peaceful relocation to alternative sites.
 
 ## Open questions
-- How will the Supreme Court rule on the petition challenging the NEC's election postponement?
-- Will the Bank of South Sudan enforce mandatory closures on non-compliant forex operators after 30 days?
-- What exact capital thresholds and documentation are required by BoSS to set up a licensed forex bureau or mobile payment service?
-- Will security guarantees allow MSF to resume primary healthcare services in Yei River County after three months?
+- How will the Supreme Court rule on the opposition challenge to the election date shift?
+- How will Central Equatoria's land audit distinguish legitimate commercial leases from invalid allocations on school property?
+- How will Sudan respond to Juba's inclusion of Abyei in the candidate selection process?
+- What alternative land and compensation packages will be provided to communities relocated from national parks?
