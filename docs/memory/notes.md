@@ -1,51 +1,37 @@
 ## Ongoing storylines
 
-### 2027 General Elections Preparation & Voter Registration
-- First seen: 2026-11-27
-- Latest status (2026-11-27): President Kiir lifted state of emergency declarations in Lakes, Warrap, Western Bahr el Ghazal, and Unity states to open political space. AU-IGAD-UN joint task force launched in Addis Ababa. Dr. Gai Chol Paul (PUF) endorsed to contest presidential election. Voter registration faces a Nov 28 cutoff amid public confusion in rural areas like Ikwoto County.
-- What to watch: Whether the National Elections Commission extends the voter registration deadline and expands civic voter education; opposition demands for security neutrality.
+### 2027 Electoral Preparations and Voter Registration
+- First seen: 2026-11-28
+- Latest status (2026-11-28): Transporting voter registration materials met violence as a convoy in Nagero County was ambushed four times, leaving a bodyguard dead. In Leer County, local authorities ordered humanitarian aid withheld from citizens who refuse to register. NEC approved a "Chief Identifier" system for citizens lacking formal IDs. SPLM selected Deng Deng Akuei for Northern Bahr el Ghazal governor, while Dr. Gai Chol Paul (People's United Forum) declared for president.
+- What to watch: Transport security along registration corridors, central response to aid coercion in Leer, and neutral application of Chief Identifiers.
 
-### Severe Food Insecurity Crisis
-- First seen: 2026-11-27
-- Latest status (2026-11-27): FAO and WFP named South Sudan among the top five global hunger hotspots requiring urgent attention from December 2026 to May 2027 due to conflict, climate shocks, and reduced aid funding.
-- What to watch: Global aid response, food supply chain fragility, and local agricultural investments.
+### Market Quality Inspection and Food Safety Enforcement
+- First seen: 2026-11-28
+- Latest status (2026-11-28): Standards authorities stepped up market inspections, destroying expired goods including 808 bags/150 cartons of wheat flour in Juba and 795 packages of flour/soft drinks in Abyei.
+- What to watch: Expanded regulatory enforcement in major trading hubs and impacts on local market supply chains.
 
-### Petroleum Sector Expansion & Power Infrastructure Deficit
-- First seen: 2026-11-27
-- Latest status (2026-11-27): Caretaker Petroleum Minister Awow Daniel Chuang sought FDI in Qingdao, China for oil exploration and power infrastructure. State targets short-term production of 200,000 bpd and long-term 400,000 bpd alongside a 5-block licensing round. GPOC fenced an oil waste pond at Unity Field following a civilian accident.
-- What to watch: Investment commitments from China, execution of the 5-block licensing round, and off-grid power solutions.
+### Energy and Resource Sector Expansion
+- First seen: 2026-11-28
+- Latest status (2026-11-28): Government preparing a licensing round for five oil blocks aiming for 400,000 bpd capacity, planning a domestic gold refinery, and receiving a $1B energy investment commitment for 2027 from Egypt's Arcius Energy.
+- What to watch: Execution of oil licensing, implementation of the gold refinery, and structural reforms in petroleum governance.
 
-### Local Peace Initiatives and Governance Normalization
-- First seen: 2026-11-27
-- Latest status (2026-11-27): Office of the President delivered 18 operational vehicles to Warrap State. Detained chiefs in Bor were released to support reconciliation, while Jonglei State and Pibor leaders opened formal peace talks.
-- What to watch: State-level security transition from military enforcement to civilian governance in states where emergency measures were rescinded.
+### Northern Border Insecurity and Displacement
+- First seen: 2026-11-28
+- Latest status (2026-11-28): Fighting in Sudan (SAF recapturing Khor Maganza in Blue Nile State; RSF drone strikes) is causing population displacement toward South Sudan's northern border.
+- What to watch: Increased humanitarian pressure and refugee influx in border counties.
 
 ## Numbers log
-
-- 18 operational vehicles: Handed over to Warrap State government (2026-11-27, Sudans Post, Eye Radio)
-- Nov 28, 2026: Official voter registration cutoff deadline (2026-11-27, Sudans Post)
-- 1,530 rounds: Ammunition intercepted near Uganda-South Sudan border (2026-11-27, NewVision.co.ug)
-- 200,000 bpd: Short-term oil production target (2026-11-27, Pan African Visions, DNE Africa)
-- 400,000 bpd: Long-term oil production target (2026-11-27, Pan African Visions, DNE Africa)
-- 5 blocks: Licensing round target for petroleum sector (2026-11-27, Pan African Visions, DNE Africa)
-- 5.4%: National grid electricity access rate (2026-11-27, DNE Africa, Oil & Gas Middle East)
-- 50%: Government grid electricity access target by 2035 (2026-11-27, DNE Africa, Oil & Gas Middle East)
-- January 2027: Somali EAC electronic passport issuance rollout date (2026-11-27, Sudans Post, Eye Radio)
+- 2026-11-28: 808 bags and 150 cartons of expired wheat flour destroyed in Juba (Source: Sudans Post)
+- 2026-11-28: 795 packages of expired flour and soft drinks destroyed in Abyei (Source: Eye Radio)
+- 2026-11-28: 65 votes secured by Deng Deng Akuei to win the SPLM primary for Northern Bahr el Ghazal governor (Source: Sudans Post, Eye Radio)
+- 2026-11-28: 400,000 barrels per day production target for five new oil blocks up for licensing (Source: OilPrice.com, Construction Review)
+- 2026-11-28: $1 billion energy investment planned by Arcius Energy (Egypt) for 2027 (Source: Construction Review)
 
 ## Rumors log
-
-- Discriminatory slurs ("Wewe") targeting Azande community ahead of Azande Cultural Festival
-  - Label: Possibly true
-  - Date: 2026-11-27
-  - Outcome: Former Minister Joseph Bangasi Bakasoro publicly condemned the slurs and called for public education and national unity.
-- Cross-border ammunition smuggling syndicate operating along Uganda border
-  - Label: Unverified
-  - Date: 2026-11-27
-  - Outcome: Joint investigation launched by Ugandan and South Sudanese authorities after 1,530 rounds were intercepted.
+- Claim: Local authorities in Leer County are conditioning emergency food aid on voter registration | Label: Unverified local overreach | Date: 2026-11-28 | Outcome: Directive issued by Caretaker Commissioner Maj. Gen. Stephen Taker Riak Don; unverified whether central government or NEC will reverse it.
+- Claim: South Sudan regional travel is delayed due to administrative bottlenecks in rolling out the EAC e-passport, trailing Somalia's January 2027 launch | Label: Possibly true | Date: 2026-11-28 | Outcome: Technical integration delayed in Juba.
 
 ## Open questions
-
-- Will the National Elections Commission grant a formal extension to voter registration past the November 28 deadline?
-- How will the government address civic education gaps in rural counties where voter registration was confused with political party drives?
-- Will caretaker Minister Awow Daniel Chuang secure foreign direct investment commitments in China for petroleum exploration and grid power expansion?
-- How will authorities in Lakes, Warrap, Western Bahr el Ghazal, and Unity states manage local security while transitioning from state-of-emergency military rules to civilian governance?
+- Will the National Elections Commission or central authorities intervene to prevent local leaders from withholding humanitarian aid to force voter registration?
+- How will the NEC guard against local political bias when relying on local "Chief Identifiers" for citizen verification?
+- Can security forces adequately secure transport corridors in Western Equatoria following fatal ambushes on electoral material convoys?
